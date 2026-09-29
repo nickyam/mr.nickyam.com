@@ -17,7 +17,7 @@ Here is what happened.
 
 On the evening of August 14, I was scrolling on my phone when I saw DeepSeek had shipped something new called Harness. Normally I am immune to "framework" releases — everybody ships a framework these days, each name more intimidating than the last. But I clicked in, and one slogan jumped out at me:
 
-![](https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBfbVqpm5eHQHnkGYplRlpq1MWI5qxrgACVRRrG7iVMVXlH9vsFGWeYAEAAwIAA3kAAz0E.png)
+![](https://yun.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBfbVqpm5eHQHnkGYplRlpq1MWI5qxrgACVRRrG7iVMVXlH9vsFGWeYAEAAwIAA3kAAz0E.png)
 
 *Everything is a Plugin.*
 

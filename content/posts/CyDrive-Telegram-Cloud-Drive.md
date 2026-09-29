@@ -12,7 +12,7 @@ tags:
 url: "/Tech/CyDrive-Telegram-Cloud-Drive"
 ---
 
-![CyDrive — mount Telegram as a cloud drive](https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBgdJqprhpoU4zpwABmG2HdTfPT7k724EAAroWaxu4lTFVZ-2LQE8oMz0BAAMCAAN5AAM9BA.png)
+![CyDrive — mount Telegram as a cloud drive](https://yun.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBgdJqprhpoU4zpwABmG2HdTfPT7k724EAAroWaxu4lTFVZ-2LQE8oMz0BAAMCAAN5AAM9BA.png)
 
 A while back I was sorting through photos and videos from my camera, and my C: drive immediately turned red. Digging out an external hard drive felt like a chore, and every cloud-storage option either throttles your speed or bills you by the year. Finding a home for tens or hundreds of gigabytes always stings.
 

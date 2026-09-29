@@ -25,7 +25,7 @@ So, how did Warren Buffett's Berkshire Hathaway and Bitcoin perform relative to 
 
 Starting from January 3, 2021, and ending on October 27, 2023, which is approximately 2 years and 10 months, the market capitalization of Berkshire Hathaway has temporarily surpassed the total market capitalization of Bitcoin.
 
-![](https://img.nickyam.com/file/2a62c69931971fc24b649.png)
+![](https://yun.nickyam.com/file/2a62c69931971fc24b649.png)
 
 If we only consider the total market capitalization in terms of US dollars, we are still using the US dollar as the measuring tool for wealth. Let's change our perspective and use Bitcoin as a more openly transparent and reliable measuring tool.
 
@@ -41,7 +41,7 @@ In other words, if Warren Buffett were to allocate 1% of his managed asset portf
 
 What about going back to January 2021? At that time, Berkshire Hathaway had a total market capitalization of $543 billion, and the price of Bitcoin was $32,000.
 
-![](https://img.nickyam.com/file/5449065b9d2280d80b5c6.png)
+![](https://yun.nickyam.com/file/5449065b9d2280d80b5c6.png)
 
 So, going back to January 2021, with 1% of $543 billion, which is $5.43 billion, divided by the price of Bitcoin at that time, $32,000, is roughly equivalent to 170,000 BTC. Now, let's calculate the percentage of the total Bitcoin supply that this represents at that time.
 

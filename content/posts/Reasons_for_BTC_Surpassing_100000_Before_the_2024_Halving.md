@@ -14,7 +14,7 @@ aliases:
 
 Yesterday, Blockstream's founder and renowned cryptographer Adam Back, in an interview with Bloomberg, mentioned that Bitcoin could potentially surpass \$100,000 before the halving event in the first half of 2024.[^1]
 
-![](https://img.nickyam.com/file/81322d4e61303610296bb.png)
+![](https://yun.nickyam.com/file/81322d4e61303610296bb.png)
 
 Surpassing the previous high before the halving event is an unprecedented occurrence in the Bitcoin's development history of the past decade.
 

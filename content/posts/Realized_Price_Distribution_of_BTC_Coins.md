@@ -20,7 +20,7 @@ An intriguing question is: How is the purchase price of these coins distributed?
 
 First and foremost, it's important to note that we cannot accurately determine the true purchase price of each UTXO. This is because a significant portion of UTXOs are traded on centralized exchanges, and obtaining transaction price data is quite challenging. One approach is to calculate the so-called "Realized Price," which is based on the market price of BTC at the time the UTXO was generated. While this is not an exact transaction price, it does offer a certain perspective. By using this price to estimate the acquisition cost of all UTXOs and then plotting a distribution graph, the following figure is obtained.
 
-![Entity-Adjusted Unspent Realized Price Distribution](https://img.nickyam.com/file/f199e8d562d096a61fae7.png)
+![Entity-Adjusted Unspent Realized Price Distribution](https://yun.nickyam.com/file/f199e8d562d096a61fae7.png)
 
 The horizontal axis represents price, and the vertical axis represents coin balance (units: BTC). The blue indicates long-term holders, the red represents short-term holders, and the gray represents centralized exchanges.
 

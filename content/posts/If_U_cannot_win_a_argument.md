@@ -24,6 +24,6 @@ If U cannot win a argument,how will you do?U can comment on this blog.
 
 Here i'm going to give you guys this picture:
 
-![](https://img.nickyam.com/file/68a4c03482cca0c8f3531.png)
+![](https://yun.nickyam.com/file/68a4c03482cca0c8f3531.png)
 
 I am serious,but you have the right to laugh at it~

@@ -15,7 +15,7 @@ url: "/World/The_New_Stamp_Of_Dragon_Year"
 Year 2012 is the year of Dragon. And traditonally,there is a stamp for the year in China.So this year the role is dragon.The chinese creature is not the one western people think of.The werstern dragon is aggressive,howerever the chinese creature is the symbol of the empires and happiness.In fact, the chinese dragon should be called as ‘Loong’,according to his chinese pronouncation.
 
 <div style="text-align: center;">
-  <img src="https://img.nickyam.com/file/bfd3d578579de0e33258e.jpg" alt="The New Stamp Of Dragon Year" />
+  <img src="https://yun.nickyam.com/file/bfd3d578579de0e33258e.jpg" alt="The New Stamp Of Dragon Year" />
 </div>
 
 Then why i’m here to say something about ‘Loong’.Because this year’s loong on the stamp is somehow not so gentle. Someone thinks that the loong seems to imply that 2012 will be the year to show china’s strength.

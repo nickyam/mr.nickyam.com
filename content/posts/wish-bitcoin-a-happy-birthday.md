@@ -24,7 +24,7 @@ However, regardless of the details, Satoshi Nakamoto chose the publication date 
 
 Today, Bitcoin has evolved from being virtually worthless to becoming a unique global asset with a market value of $886.2 billion, surpassing the market capitalization of Elon Musk's Tesla and Warren Buffett's Berkshire Hathaway, and ranking among the top ten global assets.
 
-![](https://img.nickyam.com/file/dd26ee01c4c3b3725a579.png)
+![](https://yun.nickyam.com/file/dd26ee01c4c3b3725a579.png)
 
 Today, the Bitcoin ETF approval is imminent, and global asset management giants such as BlackRock and Fidelity have already entered the fray, submitting applications for Bitcoin ETFs to the U.S. Securities and Exchange Commission (SEC).
 

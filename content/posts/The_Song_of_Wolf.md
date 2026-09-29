@@ -16,7 +16,7 @@ When we are young,we are often told that wolves are evil and cruel.If we weep,ad
 Wolf is a species that lives long enough to be honored as one of the perfect species in the evolution so far by biologists.For public,Wolf reminds us of Dog,who shares the same ancestor with Wolf.I love wolf far more than dog. It is always touching that we heard about storys that a dog is so loyal to his master that he never leaves even when his master is dead.Nevertheless I appreciate more about the wolf’s loyalty,the loyalty between each other and between male and female.There is a saying that a wolf only has one lifetime campanion.I never know whether there is any law in the wolves to constraint them to do so.But in modern society we human-beings are sometiomes lack of loyalty even within the legal framework,always making one and another excuses.Is it the evolution that we are proud of?
 
 <div style="text-align: center;">
-  <img src="https://img.nickyam.com/file/7cbc370484f12eab4ef2f.jpg" alt="Wolf" />
+  <img src="https://yun.nickyam.com/file/7cbc370484f12eab4ef2f.jpg" alt="Wolf" />
 </div>
 
 

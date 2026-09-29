@@ -44,11 +44,11 @@ Now, the reaper BlackRock has decided to jump into the Bitcoin game.
 
 Just five or six years ago, during the previous bull market cycle of Bitcoin, BlackRock's CEO Larry Fink referred to it as a money laundering scheme.
 
-![](https://img.nickyam.com/file/25c595ddc4104ced61303.jpg)
+![](https://yun.nickyam.com/file/25c595ddc4104ced61303.jpg)
 
 Now, BlackRock is also entering the scene and planning to launch its own Bitcoin spot ETF. The CEO of BlackRock, Larry Fink, has started praising Bitcoin, stating that cryptocurrency is the digital version of gold. He believes that Bitcoin does not rely on any other currency and is an international asset.
 
-![](https://img.nickyam.com/file/7fb78f6e12ae6b7b2c097.png)
+![](https://yun.nickyam.com/file/7fb78f6e12ae6b7b2c097.png)
 
 The term "international" was romanticized by comrade Qu Qiubai and transliterated as "Yingte'na Xiongnaier," forever immortalized in the song "The Internationale," where the realization of Yingte'na Xiongnaier is a must.
 

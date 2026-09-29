@@ -10,7 +10,7 @@ tags:
 url: "/World/Happy_Death_Day"
 ---
 
-![](https://img.nickyam.com/file/b34fa6cfc452af59f9e6a.jpg)
+![](https://yun.nickyam.com/file/b34fa6cfc452af59f9e6a.jpg)
 
 If you see Happy Death Day as a horror movie, you may be disappointed; but if you treat it as a chick film, this is definitely a wonderful piece that combines elements of horror, suspense, and hilarity, and will give you many surprises.
 
