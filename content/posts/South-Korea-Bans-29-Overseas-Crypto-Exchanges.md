@@ -19,7 +19,7 @@ On July 24, 2026, South Korea's crypto community erupted. Search Google Play for
 
 The trigger was a long-gestating action by the Korea Financial Intelligence Unit (KoFIU): **every overseas exchange app that has not completed Virtual Asset Service Provider (VASP) registration with the KoFIU is to be removed from Google Play**[1].
 
-The affected list includes OKX, Bybit, MEXC, KuCoin, Gemini, Backpack, and BitMEX — essentially every offshore derivatives platform Korean retail traders rely on most.
+The affected list includes OKX, Bybit, MEXC, KuCoin, Gemini, Backpack, and BitMEX — essentially every offshore [derivatives](/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops) platform Korean retail traders rely on most.
 
 ## Why South Korea Is Blocking Them
 

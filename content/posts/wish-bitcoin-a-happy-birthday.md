@@ -22,7 +22,7 @@ However, regardless of the details, Satoshi Nakamoto chose the publication date 
 
 15 years, truly, how time flies.
 
-Today, Bitcoin has evolved from being virtually worthless to becoming a unique global asset with a market value of $886.2 billion, surpassing the market capitalization of Elon Musk's Tesla and Warren Buffett's Berkshire Hathaway, and ranking among the top ten global assets.
+Today, Bitcoin has evolved from being virtually worthless to becoming a unique global asset with a market value of $886.2 billion, surpassing the market capitalization of Elon Musk's [Tesla](/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions) and [Warren Buffett](/Crypto/Buffett_Outperforms_Bitcoin)'s Berkshire Hathaway, and ranking among the top ten global assets.
 
 ![](https://yun.nickyam.com/file/dd26ee01c4c3b3725a579.png)
 
@@ -38,7 +38,7 @@ Bitcoin teaches without speaking; its actions instruct. It has taught us too man
 
 Through prolonged interaction, it gradually elevates our level of thinking and cognitive understanding.
 
-Let's take an example. It is well-known that obtaining Bitcoin requires Proof of Work (PoW), which involves computational power, i.e., computer hardware and electrical energy. Even in the early days when Bitcoin seemed to have no utility (and may still seem useless to many today), everyone needed to incur this cost to obtain it.
+Let's take an example. It is well-known that obtaining Bitcoin requires [Proof of Work](/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition) (PoW), which involves computational power, i.e., computer hardware and electrical energy. Even in the early days when Bitcoin seemed to have no utility (and may still seem useless to many today), everyone needed to incur this cost to obtain it.
 
 Bitcoin teaches us about the principles of "preciousness" and "utility."
 

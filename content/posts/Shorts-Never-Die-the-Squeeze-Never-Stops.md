@@ -17,7 +17,7 @@ Overnight, Bitcoin suddenly rallied. A single candle of more than 7% shot straig
 
 This move was a pure cascade of short liquidations — what is commonly called a short squeeze.
 
-The CLARITY Act failed to pass. The Fed restarted rate hikes last week. The Bank of Japan pushed rates to 1.25%, a 31-year high. Under normal circumstances, any one of these three would be a textbook bearish headline. Yet Bitcoin not only failed to drop — it broke upward right at this level.
+The CLARITY Act failed to pass. [The Fed](/Crypto/The-Feds-Swan-Song) restarted rate hikes last week. The Bank of Japan pushed rates to 1.25%, a 31-year high. Under normal circumstances, any one of these three would be a textbook bearish headline. Yet Bitcoin not only failed to drop — it broke upward right at this level.
 
 When bad news fails to translate into a price drop, there is usually only one reason: there are simply too many, too thick, short positions.
 
@@ -103,4 +103,4 @@ They step onto the field, see red, lose the free will of a human being, and beco
 
 ## References
 
-- **[1]** Glassnode, on-chain analysis (published the weekend of September 19–20, 2026): the late-August rally from 64k to 80k was driven almost entirely by short liquidations rather than long accumulation — the strongest rally in two years was fueled by the shorts' own liquidation orders.
+- **[1]** Glassnode, [on-chain analysis](/Crypto/Bitcoin-Unrealized-Profit-Pullback-Warning) (published the weekend of September 19–20, 2026): the late-August rally from 64k to 80k was driven almost entirely by short liquidations rather than long accumulation — the strongest rally in two years was fueled by the shorts' own liquidation orders.

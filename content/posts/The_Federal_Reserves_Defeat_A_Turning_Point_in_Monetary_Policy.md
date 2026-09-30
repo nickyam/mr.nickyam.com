@@ -12,7 +12,7 @@ aliases:
   - "/World/The_Federal_Reserve's_Defeat_A_Turning_Point_in_Monetary_Policy.html"
 ---
 
-On the early morning of the 4th, the Federal Reserve concluded its May interest rate meeting. As expected, there was another 25 basis points rate hike, bringing the federal funds rate to the range of 5% to 5.25%. The plan to reduce the balance sheet through bond selling continues, but the wording suggesting further rate hikes has been removed. This is likely to be the last rate hike. Bitcoin experienced a drop followed by a rise, surging from around $28.5k to $29k.
+On the early morning of the 4th, the [Federal Reserve](/Crypto/The-Feds-Swan-Song) concluded its May interest rate meeting. As expected, there was another 25 basis points rate hike, bringing the federal funds rate to the range of 5% to 5.25%. The plan to reduce the balance sheet through bond selling continues, but the wording suggesting further rate hikes has been removed. This is likely to be the last rate hike. Bitcoin experienced a drop followed by a rise, surging from around $28.5k to $29k.
 
 <!--more-->
 

@@ -10,13 +10,13 @@ tags:
 url: "/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market"
 ---
 
-If you followed the investment advice of the BlackRock CEO and went long on Bitcoin yesterday, you would have probably learned your lesson from the market today.  Today, let's take a look at how Levermore, more than a hundred years ago, fell victim to trusting the views of the big shots and ended up losing money.
+If you followed the investment advice of the [BlackRock](/Crypto/BlackRock_CEO_Praises_Bitcoin) CEO and went long on Bitcoin yesterday, you would have probably learned your lesson from the market today.  Today, let's take a look at how Levermore, more than a hundred years ago, fell victim to trusting the views of the big shots and ended up losing money.
 
 <!--more-->
 
 We all know that in most fields, to excel at something, you need guidance from experts and masters, often needing to follow their instructions completely. You seek a doctor when you're sick, a lawyer when you're dealing with legal matters, and a mechanic when your car breaks down.
 
-But in the investment industry, this rule doesn't apply. Investing is not like seeking medical treatment, fighting a legal battle, or fixing a car; authority and experience don't necessarily equate to being correct. Even today's stock market legends like Warren Buffett and Charlie Munger cannot predict the past and future of Bitcoin.
+But in the investment industry, this rule doesn't apply. Investing is not like seeking medical treatment, fighting a legal battle, or fixing a car; authority and experience don't necessarily equate to being correct. Even today's stock market legends like [Warren Buffett](/Crypto/Buffett_Outperforms_Bitcoin) and Charlie Munger cannot predict the past and future of Bitcoin.
 
 Buffett expressed doubts about Bitcoin as early as 2014 in an interview, stating, "Personally, I would stay away from it. I would never have anything to do with it. I would not encourage it. I would not believe it. It's a mirage basically."
 

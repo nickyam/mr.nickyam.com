@@ -14,12 +14,12 @@ Earlier this month, Tether, the leading stablecoin issuer by market capitalizati
 
 <!--more-->
 
-1.  The net profit for the first quarter was $1.48 billion, more than double the profit from the fourth quarter of 2022! To put it in perspective, the renowned asset management company BlackRock had a net profit of only $1.16 billion in the first quarter, with nearly 20,000 employees. How many employees does Tether have globally? Probably only around one or two hundred.
+1.  The net profit for the first quarter was $1.48 billion, more than double the profit from the fourth quarter of 2022! To put it in perspective, the renowned asset management company [BlackRock](/Crypto/BlackRock_CEO_Praises_Bitcoin) had a net profit of only $1.16 billion in the first quarter, with nearly 20,000 employees. How many employees does Tether have globally? Probably only around one or two hundred.
     
 2.  The issuance of USDT increased from $66 billion to over $82 billion. The primary reserve assets are U.S. Treasury bonds, accounting for over $53 billion (over 64%). They significantly reduced their bank deposits from $5.3 billion to $481 million. (One can only say that Tether made a swift move during the banking crisis!)
     
 
-While the Federal Reserve bears the risk of bank failures and desperately raises interest rates to fight inflation, Tether made a bold move by buying U.S. bonds at a discount. The more interest the Federal Reserve raises, the more profit Tether receives, and the interest becomes mere surplus. Tether, holding a substantial amount of low-priced, high-yielding U.S. bonds, has become a significant beneficiary of this forced liquidity injection.
+While the [Federal Reserve](/Crypto/The-Feds-Swan-Song) bears the risk of bank failures and desperately raises interest rates to fight inflation, Tether made a bold move by buying U.S. bonds at a discount. The more interest the Federal Reserve raises, the more profit Tether receives, and the interest becomes mere surplus. Tether, holding a substantial amount of low-priced, high-yielding U.S. bonds, has become a significant beneficiary of this forced liquidity injection.
 
 [![](https://telegraph-image.pages.dev/file/4e896b1079c7bffcf6928.jpg)](https://telegraph-image.pages.dev/file/4e896b1079c7bffcf6928.jpg)
 

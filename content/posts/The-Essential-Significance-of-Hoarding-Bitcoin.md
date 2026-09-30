@@ -103,10 +103,10 @@ A pacifist is unwilling to use one poison to cure another. Instead, they propose
 
 By removing the bone of currency over-issuance, the poison of economic bugs can be cured.
 
-They invented Bitcoin, which relies solely on natural rules (such as Proof of Work) to constrain and regulate its creation. It cannot be arbitrarily over-issued, and its total supply is fixed.
+They invented Bitcoin, which relies solely on natural rules (such as [Proof of Work](/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition)) to constrain and regulate its creation. It cannot be arbitrarily over-issued, and its total supply is fixed.
 
 This person is Satoshi Nakamoto.
 
-For all of humanity to save and assist each other better, we need better tools—tools that are not manipulated by third parties, even if those parties are skillful and adept, like Federal Reserve Chairman Powell—tools that can better cope with future changes.
+For all of humanity to save and assist each other better, we need better tools—tools that are not manipulated by third parties, even if those parties are skillful and adept, like [Federal Reserve](/Crypto/The-Feds-Swan-Song) Chairman Powell—tools that can better cope with future changes.
 
 The essence of hoarding Bitcoin lies in this fundamental significance.

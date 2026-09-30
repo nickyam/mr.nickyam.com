@@ -18,7 +18,7 @@ Regarding the harvesting of the US dollar in the global circulation, there are a
 
 In the cycle of US dollar circulation, what is the position of Bitcoin? Does it belong to the world or to the United States? How does it benefit or suffer at the beginning and end of the expansionary cycle, and at the beginning and end of the contractionary cycle?
 
-The Federal Reserve is the source of liquidity. The liquidity injected by the Federal Reserve flows into the United States through various channels and then spreads to the rest of the world. The United States can be seen as a small pond, while the world represents a larger reservoir. Of course, due to the United States' position as the world's largest economy, its pond holds a significant share compared to the rest of the world.
+The [Federal Reserve](/Crypto/The-Feds-Swan-Song) is the source of liquidity. The liquidity injected by the Federal Reserve flows into the United States through various channels and then spreads to the rest of the world. The United States can be seen as a small pond, while the world represents a larger reservoir. Of course, due to the United States' position as the world's largest economy, its pond holds a significant share compared to the rest of the world.
 
 How does the Federal Reserve create liquidity? Through the Treasury Department. The Treasury Department issues debt, and the Federal Reserve provides liquidity by injecting money into the system. This is the mechanism for issuing debt-based US dollars.
 
@@ -42,6 +42,6 @@ If Bitcoin floats in the global pool, it would follow a tide of rise, rise, fall
 
 Currently, we are at the end of the contraction phase, with the world still experiencing the painful scarcity of liquidity, while the US stock market has already displayed a vibrant scene of prosperity. As for Bitcoin, it has long emerged from the swamp of $16k in December 2022, crossing the watershed of $30k. However, Bitcoin is not as favorable as the US stock market. Bitcoin is half in the US and half in the world.
 
-Perhaps this is why the CEO of BlackRock, Larry Fink, has been emphasizing that Bitcoin is international. It is neither American nor foreign—it is international.
+Perhaps this is why the CEO of [BlackRock](/Crypto/BlackRock_CEO_Praises_Bitcoin), Larry Fink, has been emphasizing that Bitcoin is international. It is neither American nor foreign—it is international.
 
 If the Bitcoin spot ETF, which provides access to the US financial capital market, is approved and listed, connecting the pipeline of Bitcoin with the flow of water from the US pool, it would undoubtedly subject Bitcoin to greater buoyancy from the US pool.

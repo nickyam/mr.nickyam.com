@@ -20,7 +20,7 @@ The key distinction here is reflexivity.
 
 In the latter scenario, voting as a means of collective governance has a feedback effect on itself.
 
-Initially, in the Bitcoin whitepaper, Satoshi Nakamoto discussed the concept of Proof of Work, stating that the essence of Proof of Work is "one CPU, one vote." Here, "CPU" should be understood as a unit of computational power, meaning that the more computational power one possesses, the greater their voting power.
+Initially, in the Bitcoin whitepaper, Satoshi Nakamoto discussed the concept of [Proof of Work](/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition), stating that the essence of Proof of Work is "one CPU, one vote." Here, "CPU" should be understood as a unit of computational power, meaning that the more computational power one possesses, the greater their voting power.
 
 This represents a form of implicit voting or an automated process. The purpose of voting is to make decisions regarding the system itself, particularly on matters crucial to the system's consensus, which is fundamental for its survival and avoidance of collapse. It is a form of reflexive voting or, in other words, autonomous voting.
 
@@ -38,4 +38,4 @@ When discussing the issue of shared governance in future organizations, we can d
 
 While voting in an organization does not necessarily need to be conducted on-chain, voting in a decentralized organization like a DAO does require utilizing a blockchain. This is because individuals' identities, assets, and particularly the organization's capital exist on the blockchain. Through on-chain governance, the aforementioned entities can be automatically executed. Therefore, the governance voting of a DAO exhibits reflexivity. For example, if a DAO votes to divide and distribute its own capital, akin to what the character Pigsy often says in "Journey to the West" about everyone taking their share and going their separate ways, then the DAO would effectively destroy itself.
 
-Thus, on-chain data is simply a "physicalization" of real-life existence and human nature in the off-chain world. The essence of on-chain voting is not merely about programs, logic, and rules, but rather the on-chain mapping and evidence of a social contract formed by a living community of individuals.
+Thus, [on-chain data](/Crypto/Bitcoin-Unrealized-Profit-Pullback-Warning) is simply a "physicalization" of real-life existence and human nature in the off-chain world. The essence of on-chain voting is not merely about programs, logic, and rules, but rather the on-chain mapping and evidence of a social contract formed by a living community of individuals.

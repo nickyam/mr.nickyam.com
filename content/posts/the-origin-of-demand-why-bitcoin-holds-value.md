@@ -72,7 +72,7 @@ The brilliant Sir Keynes focused on demand itself. By printing money to stimulat
 
 Keynes's Inner OS: As long as money is printed frantically, even dog feces can soar.
 
-Regardless of what people claim to be their economic philosophy, when it comes to real market investments with real money and real risks, they all fall at the feet of Keynes. Otherwise, why do investors worldwide always pay the utmost attention to the monetary policy of the Federal Reserve!
+Regardless of what people claim to be their economic philosophy, when it comes to real market investments with real money and real risks, they all fall at the feet of Keynes. Otherwise, why do investors worldwide always pay the utmost attention to the monetary policy of the [Federal Reserve](/Crypto/The-Feds-Swan-Song)!
 
 # Prerequisites of Demand
 

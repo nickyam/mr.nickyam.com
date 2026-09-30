@@ -10,7 +10,7 @@ tags:
 url: "/Crypto/Bitcoin-Minting-Tax"
 ---
 
-Overnight, Bitcoin continues to hover above $29,000. Most likely, the Federal Reserve's July interest rate meeting has commenced. Tomorrow, we should know the outcome, and the market is poised to make a decision.
+Overnight, Bitcoin continues to hover above $29,000. Most likely, the [Federal Reserve](/Crypto/The-Feds-Swan-Song)'s July interest rate meeting has commenced. Tomorrow, we should know the outcome, and the market is poised to make a decision.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ When it comes to cryptocurrencies, we talk about the concept of "Seigniorage," w
 
 Seigniorage is not a tax; instead, it's a special benefit, a revenue earned through issuing currency.
 
-When a regular commodity is produced, its price is determined by the balance between social supply capacity and overall consumer demand. However, when this commodity is used as a widely accepted medium of exchange and a store of value, people tend to hold onto it for transactions or store it for future use, increasing its demand and tightening its supply, leading to a value much higher than its regular commodity equilibrium price. Since the production cost remains low, the profit margin expands.
+When a regular commodity is produced, its price is determined by the balance between social supply capacity and overall consumer demand. However, when this commodity is used as a widely accepted medium of exchange and a [store of value](/Crypto/the-origin-of-demand-why-bitcoin-holds-value), people tend to hold onto it for transactions or store it for future use, increasing its demand and tightening its supply, leading to a value much higher than its regular commodity equilibrium price. Since the production cost remains low, the profit margin expands.
 
 With paper money, the cost is even lower. It appears that the practical value can be separated from its added value, leaving only its exchange value and store of value functions, essentially making it pure currency. However, economists persistently discuss an erroneous belief that the value of money must stem from its practical utility.
 

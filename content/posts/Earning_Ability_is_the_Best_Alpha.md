@@ -24,7 +24,7 @@ Many have tried numerous methods to achieve alpha over Bitcoin, such as buying a
 
 In my view, the ultimate winning alpha is the ability to consistently make money. If you excel at working, then your job income is your best alpha. If you have your own business, then the profits from it are your best alpha. If you are a landlord, the rental income is your best alpha. In short, the ability to generate income is the best alpha.
 
-Warren Buffett's Berkshire Hathaway sticks to acquiring and controlling businesses with good fundamentals, allowing these subsidiaries to continuously generate profits. Through control, they become Buffett's cash cows. Without control, Buffett might become a victim. Ownership makes a world of difference in the value game.
+[Warren Buffett](/Crypto/Buffett_Outperforms_Bitcoin)'s Berkshire Hathaway sticks to acquiring and controlling businesses with good fundamentals, allowing these subsidiaries to continuously generate profits. Through control, they become Buffett's cash cows. Without control, Buffett might become a victim. Ownership makes a world of difference in the value game.
 
 Michael Saylor's MicroStrategy (MSTR) creatively accumulates Bitcoin in various ways, amassing tens of thousands of coins. More importantly, MicroStrategy not only holds Bitcoin but also operates a software business that generates continuous cash flow, sustaining their Bitcoin accumulation without management fees.
 

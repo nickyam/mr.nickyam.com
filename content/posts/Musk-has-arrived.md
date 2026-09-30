@@ -12,7 +12,7 @@ url: "/Tech/Musk-has-arrived"
 
 Musk has arrived. Not only has he arrived, but he has arrived with great fanfare. And it's not just the arrival that's making headlines; he's also being received with high-profile receptions.
 
-Which Musk are we talking about? The one who produces Tesla cars, launches Starlink satellites into orbit, vows to send people to Mars with rockets, acquires Twitter and lays off 70% of its staff, and makes extravagant statements about Dogecoin while later calling it a scam on television.
+Which Musk are we talking about? The one who produces [Tesla](/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions) cars, launches Starlink satellites into orbit, vows to send people to Mars with rockets, acquires Twitter and lays off 70% of its staff, and makes extravagant statements about Dogecoin while later calling it a scam on television.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ For Musk, who is more than an industrial capitalist but not quite a financial ca
 
 Industrial capitalists and financial capitalists have a love-hate relationship. The former needs the latter's financial support to grow and prosper, but when it comes to sharing and seizing surplus value, they become bitter rivals, envious of each other's gains.
 
-That's why Musk is dissatisfied with Wall Street and disdainful of Buffett. Musk doesn't care about Buffett, and Buffett doesn't care about Musk.
+That's why Musk is dissatisfied with Wall Street and disdainful of [Buffett](/Crypto/Buffett_Outperforms_Bitcoin). Musk doesn't care about Buffett, and Buffett doesn't care about Musk.
 
 During the darkest period when Musk had nothing but dreams and financial capital was unwilling to foot the bill for his dreams, he found himself on the brink of bankruptcy. He spent sleepless nights, shedding tears, and even now, looking back, he still feels a lingering fear.
 
