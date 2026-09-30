@@ -1,0 +1,27 @@
+{{- /* Related posts: top 5 by shared tags (weight 2) + categories (weight 1).
+       Self-contained (no [related] config needed). Renders only on post pages
+       where extend_post_content.html is included. */ -}}
+{{- $cur := . -}}
+{{- $curTags := $cur.Params.tags | default slice -}}
+{{- $curCats := $cur.Params.categories | default slice -}}
+{{- $pool := where .Site.RegularPages "Section" "posts" -}}
+{{- $scored := slice -}}
+{{- range $pool -}}
+  {{- if ne .RelPermalink $cur.RelPermalink -}}
+    {{- $s := 0 -}}
+    {{- range .Params.tags | default slice -}}{{- if in $curTags . -}}{{- $s = add $s 2 -}}{{- end -}}{{- end -}}
+    {{- range .Params.categories | default slice -}}{{- if in $curCats . -}}{{- $s = add $s 1 -}}{{- end -}}{{- end -}}
+    {{- if gt $s 0 -}}{{- $scored = $scored | append (dict "p" . "s" $s) -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $scored -}}
+{{- $scored = sort $scored "s" "desc" | first 5 -}}
+<section class="related-posts">
+  <h2>Related</h2>
+  <ul>
+    {{- range $scored -}}
+    <li><a href="{{ .p.RelPermalink }}">{{ .p.Title }}</a></li>
+    {{- end -}}
+  </ul>
+</section>
+{{- end -}}
