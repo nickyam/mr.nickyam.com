@@ -20,7 +20,7 @@ The logic is straightforward: the thicker the paper profit, the stronger the tem
 
 Yet on the very same day, two other datasets from the same firm point in the opposite direction. Per CryptoQuant analyst @axeladlerjr, the 7-day realized profit at the September 24 local top was 19% lower than the one at the August 26 top, while realized losses narrowed in tandem [2]. Prices were higher, but the amount being cashed out was smaller.
 
-![Bitcoin Realized Profit / Loss](https://yun.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEB8oNqvLi1E8Dnzzhrl9GWEdI2n7AxCwACFRVrG5Ob6FV6w-wK0fFe4AEAAwIAA3kAAz0E.jpeg)
+![Bitcoin Realized Profit / Loss](https://yun.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEB8oRqvLi5Y8Z-S2Em5RtBNYimYTTzGgACFhVrG5Ob6FVoHdzAtrUKeAEAAwIAA3kAAz0E.jpeg)
 
 The Short-Term Holder SOPR (Spent Output Profit Ratio) — the gauge of short-term traders' profit and loss — compressed from 2.8% down to 1%, yet never fell below 1. Profit was simply thinning, not turning into a loss [2].
 
@@ -28,7 +28,7 @@ The Short-Term Holder SOPR (Spent Output Profit Ratio) — the gauge of short-te
 
 On the other hand, long-term holders have just emerged from a shallow stress zone. Per analyst @zizcrypto, the adjusted LTH MVRV has returned to 1.35, meaning spot price sits roughly 35% above this cohort's cost basis; between June and August it dipped below 1 five times, each time only briefly, and each dip was characterized as a healthy correction followed by recovery [3].
 
-![Adjusted Long-Term Holder MVRV](https://yun.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEB8oRqvLi5Y8Z-S2Em5RtBNYimYTTzGgACFhVrG5Ob6FVoHdzAtrUKeAEAAwIAA3kAAz0E.jpeg)
+![Adjusted Long-Term Holder MVRV](https://yun.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEB8oNqvLi1E8Dnzzhrl9GWEdI2n7AxCwACFRVrG5Ob6FV6w-wK0fFe4AEAAwIAA3kAAz0E.jpeg)
 
 However — and this is the part that demands the utmost attention — as has often been said, every technical indicator is a lagging indicator of price. The unrealized-profit metric is no exception. Why does the data show unrealized profit spiking? Simply because prices rebounded sharply from mid-August onward.
 
