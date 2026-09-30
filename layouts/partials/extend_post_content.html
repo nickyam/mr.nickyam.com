@@ -1,9 +1,21 @@
-{{- /* Post content custom area: English disclaimer appended to posts. */ -}}
-{{- /* Scoped to the posts section AND the Crypto category only. */ -}}
+{{- /* Post content custom area. */ -}}
+
+{{- /* Crypto-only disclaimer. */ -}}
 {{- if and .IsPage (eq .Section "posts") (in .Params.categories "Crypto") }}
 <aside class="post-disclaimer">
   <strong>Disclaimer:</strong> This article reflects only the author's personal and subjective views and does not constitute investment advice of any kind. The crypto market is highly volatile and carries extreme risk. Please exercise your own judgment, decide cautiously, and bear all associated risks and consequences.
 </aside>
+{{- end }}
+
+{{- /* Site-wide attribution + hidden source mark.
+       Purpose: survive naive scraping (wget / whole-article copy) so clones
+       still point back to the origin. The footer link lives in the article
+       body; the HTML comment is carried verbatim by mirroring tools. */ -}}
+{{- if and .IsPage (eq .Section "posts") }}
+<footer class="post-source">
+  Originally published on <a href="https://mr.nickyam.com" rel="author">mr.nickyam.com</a> &middot; Author Nick Yam
+</footer>
+<span class="imprint" aria-hidden="true" style="display:none">Source: mr.nickyam.com | Author: Nick Yam</span>
 {{- end }}
 
 {{- /* Related reading — automatic internal links for every post page. */ -}}
