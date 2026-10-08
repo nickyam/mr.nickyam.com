@@ -3,12 +3,16 @@
      Placed in <head> via PaperMod's extend_head.html hook so it loads on every page. -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7114121088728794" crossorigin="anonymous"></script>
 
-<!-- Related-posts block styling (bottom of every post) -->
+<!-- Related-posts block styling (bottom of every post).
+     Shares the same "footer zone" rhythm as .post-disclaimer and the
+     ## References list: hairline top rule, small muted sans-serif label,
+     clean bullet-free link list. So the three appended blocks read as one
+     coherent zone instead of clashing styles. -->
 <style>
-.related-posts { margin-top: 2.5rem; border-top: 1px solid var(--border, #e3e3e3); padding-top: 1rem; }
-.related-posts h2 { font-size: 1.15rem; margin: 0 0 .6rem; font-weight: 600; }
-.related-posts ul { margin: 0; padding-left: 1.25rem; list-style: disc; }
-.related-posts li { margin: .35rem 0; line-height: 1.5; }
+.related-posts { margin-top: 2.5rem; border-top: 1px solid var(--border, #e8e8e8); padding-top: 1rem; }
+.related-posts h2 { margin: 0 0 .6rem; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #6b7280; }
+.related-posts ul { margin: 0; padding-left: 0; list-style: none; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.95rem; line-height: 1.6; }
+.related-posts li { margin: .4rem 0; }
 .related-posts a { color: var(--primary, #2d7ff9); text-decoration: none; }
 .related-posts a:hover { text-decoration: underline; }
 </style>
