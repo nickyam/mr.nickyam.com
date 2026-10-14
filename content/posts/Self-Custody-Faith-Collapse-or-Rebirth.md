@@ -39,7 +39,7 @@ As long as an attacker obtained the admin account's username and password — wh
 
 ## Who Got Drained
 
-Hardware wallet maker Foundation had its own Lightning node drained overnight — all channels force-closed, funds swept away[5]. The Lightning node of Bitcoin magazine Citadel21 was also emptied[5]. It all happened silently.
+[Hardware wallet](/Crypto/Hardware-Wallets-Are-Not-a-False-Proposition/) maker Foundation had its own Lightning node drained overnight — all channels force-closed, funds swept away[5]. The Lightning node of Bitcoin magazine Citadel21 was also emptied[5]. It all happened silently.
 
 ## How the Bug Was Found
 

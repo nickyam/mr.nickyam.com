@@ -20,7 +20,7 @@ Some say BTC is worthless garbage.
 
 Some say BTC has no intrinsic value but has a price.
 
-Some say BTC has value because it is scarce.
+Some say BTC has value because it is [scarce](/Crypto/Bitcoin-Fixed-Supply-Feature-Not-a-Flaw/).
 
 Some say BTC has value because it is the product of immense electrical energy condensation.
 

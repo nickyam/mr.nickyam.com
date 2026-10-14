@@ -61,7 +61,7 @@ I have said before that a used iPhone can double as a hardware (cold) wallet, an
 
 And with AI models growing more capable by the day, which vendor would dare claim their device is *absolutely*, *never*, uncrackable?
 
-A purpose-built hardware wallet cannot promise absolute safety either. But it can narrow the things you personally must get right — through a clear security boundary, a dedicated signing process, protected key storage, limited functionality, and an on-device confirmation screen. Some add secure elements, firmware verification, even tamper-responsive self-destruction. In short, a dedicated wallet offloads part of the complex security work onto a designed product, lowering the bar for ordinary users to achieve self-custody.
+A purpose-built hardware wallet cannot promise absolute safety either. But it can narrow the things you personally must get right — through a clear security boundary, a dedicated signing process, protected key storage, limited functionality, and an on-device confirmation screen. Some add secure elements, firmware verification, even tamper-responsive self-destruction. In short, a dedicated wallet offloads part of the complex security work onto a designed product, lowering the bar for ordinary users to achieve [self-custody](/Crypto/Self-Custody-Faith-Collapse-or-Rebirth/).
 
 An old phone can be turned into a cold wallet, but you shoulder far more design, verification, and maintenance yourself. When you buy a dedicated wallet, you pay not just for the silicon but for the product design, R&D, software support, and security mechanisms that buy you convenience.
 

@@ -13,7 +13,7 @@ tags:
 url: "/Crypto/Mathematical-Superintelligence-Could-Crack-Bitcoin-Signatures"
 ---
 
-Overnight, BTC continued its pullback, slipping below the $83k round number. Recently, a remark by Ethereum co-founder Vitalik Buterin brought the once-distant topic of AI and cryptographic security to the foreground. He warned that if AI makes as much mathematical progress in two years as it did over the past fifty, then not only is elliptic-curve cryptography at risk, but even lattice cryptography — long hailed as the post-quantum hope — could be weakened[1]. The backdrop to that judgment is a batch of AI-generated mathematical results OpenAI published a few days earlier, and an even more aggressive warning issued by Ethereum researcher Justin Drake in response.
+Overnight, BTC continued its pullback, slipping below the $83k round number. Recently, a remark by Ethereum co-founder Vitalik Buterin brought the once-distant topic of AI and cryptographic security to the foreground. He warned that if AI makes as much mathematical progress in two years as it did over the past fifty, then not only is [elliptic-curve cryptography](/Crypto/The-Quantum-Sword-Honed-by-AI/) at risk, but even lattice cryptography — long hailed as the post-quantum hope — could be weakened[1]. The backdrop to that judgment is a batch of AI-generated mathematical results OpenAI published a few days earlier, and an even more aggressive warning issued by Ethereum researcher Justin Drake in response.
 
 ## OpenAI's "Math Tsunami"
 

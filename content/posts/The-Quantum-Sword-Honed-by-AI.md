@@ -19,7 +19,7 @@ Bitcoin continues to pull back toward $76k, with the market waiting for tonight'
 
 ## A Sword Hanging Overhead
 
-The signature security of Bitcoin and Ethereum rests on elliptic curve cryptography. The private key you use to send a transaction corresponds to a public key that is broadcast on-chain. To steal coins, an attacker must derive the private key from the public key. This problem is known as the elliptic curve discrete logarithm problem, and classical computers solve it so slowly that it is hopeless — requiring more time than the age of the universe.
+The [signature](/Crypto/Mathematical-Superintelligence-Could-Crack-Bitcoin-Signatures/) security of Bitcoin and Ethereum rests on elliptic curve cryptography. The private key you use to send a transaction corresponds to a public key that is broadcast on-chain. To steal coins, an attacker must derive the private key from the public key. This problem is known as the elliptic curve discrete logarithm problem, and classical computers solve it so slowly that it is hopeless — requiring more time than the age of the universe.
 
 In 1994, mathematician Peter Shor proposed a quantum algorithm that can solve such problems in polynomial time. In other words, once a sufficiently powerful quantum computer exists, deriving the private key from the public key, forging signatures, and emptying wallets becomes nothing more than running a program. The industry calls the day a quantum computer truly gains this capability Q-Day.
 

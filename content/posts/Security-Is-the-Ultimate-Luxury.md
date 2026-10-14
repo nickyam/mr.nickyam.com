@@ -13,7 +13,7 @@ tags:
 url: "/Crypto/Security-Is-the-Ultimate-Luxury"
 ---
 
-Last Friday (Oct 9), BTC quietly retested its 50-day line (around $80.7k), then, after a two-day weekend, climbed back to $83k–$84k. But what sent a chill down the market's spine was not the price action. It was a supply-chain attack on Ledger hardware wallets that, by some accounts, drained close to $100 million.
+Last Friday (Oct 9), BTC quietly retested its 50-day line (around $80.7k), then, after a two-day weekend, climbed back to $83k–$84k. But what sent a chill down the market's spine was not the price action. It was a supply-chain attack on [Ledger hardware wallets](/Crypto/Hardware-Wallets-Are-Not-a-False-Proposition/) that, by some accounts, drained close to $100 million.
 
 A Ledger unit shipped from Malaysia, when opened, was found to contain a tiny board where the screen's padding should have been — a board that had no business being there. On a fingernail-sized piece of silicon sat a full mobile-communications stack: an LTE module, an antenna, an eSIM, plus a microcontroller wired into the device's SPI bus. It cannot crack your password, but it quietly watches the screen, memorizes the 24 words you jot down during setup, and beams them out[1].
 
@@ -53,7 +53,7 @@ So a hardware wallet's cold is not always-cold, but sometimes-cold, sometimes-no
 
 The industry has even minted a concept between hot and cold, calling it the "warm wallet."
 
-Used properly, a Ledger simply separates the signing key from a directly-networked device (the PC), adding a sliver of security.
+Used properly, a Ledger simply separates the [signing key](/Crypto/Self-Custody-Faith-Collapse-or-Rebirth/) from a directly-networked device (the PC), adding a sliver of security.
 
 At first principles, a hardware wallet is a commercial product. The manufacturer produces for profit. Under that relationship, the incentive to ship new features and new products often overshadows the incentive to be maximally conservative and guard security above all.
 
