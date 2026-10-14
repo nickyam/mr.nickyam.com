@@ -1,5 +1,5 @@
 ---
-title: "Is Bitcoin's Fixed Supply a Flaw or a Feature? A Monetary Debate"
+title: "Bitcoin's Fixed Supply: Why Saifedean Ammous Says It's a Feature, Not a Flaw"
 date: "2026-10-14T16:53:00+08:00"
 author: "Nick Yam"
 toc: true
@@ -10,7 +10,9 @@ tags:
   - "Monetary Policy"
   - "Sound Money"
   - "Volatility"
-url: "/Crypto/Is-Bitcoins-Fixed-Supply-a-Flaw-or-a-Feature"
+url: "/Crypto/Bitcoin-Fixed-Supply-Feature-Not-a-Flaw"
+aliases:
+  - "/Crypto/Is-Bitcoins-Fixed-Supply-a-Flaw-or-a-Feature"
 ---
 
 On Wednesday Bitcoin hovered in a narrow 83k–84k range, the kind of quiet consolidation that gives the tape-watchers little to talk about. Off the chart, a livelier contest was playing out between two economists over whether Bitcoin's fixed supply is a bug or a feature.
