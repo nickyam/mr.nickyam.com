@@ -69,7 +69,7 @@ Stances toward the quantum question easily fall into two extremes. One is alarmi
 
 Both are unwise. The professional approach is to treat it as a long race: the sword is being slowly honed, and the shield must be repaired in advance. The technical pathways for post-quantum migration, the standards timeline, and ecosystem coordination — these tasks are already underway, and progressing not slowly. For holders, what is worth watching is not some scary percentage, but whether the entire ecosystem can get the new signature algorithms ready and arrange the migration of old addresses before the hardware catches up. Stepping back, the same AI now honing this sword is also the force pushing control toward centralization — which is precisely why we argue blockchain's value only grows as AI does; we develop that point <a href="/Crypto/Why-Blockchain-Matters-More-as-AI-Gets-More-Powerful/">in this essay</a>.
 
-Those who prepare in advance can face danger without fear, and remain calm and composed.
+Those who prepare in advance can face danger without fear, and remain calm and composed. The conversation has since moved from the research bench to the industry table: nine blockchain firms have now formed the Quantum Alliance to set post-quantum readiness standards, and the fight over what to do with Satoshi's exposed coins has taken center stage — a story we track in our essay on <a href="/Crypto/Bitcoins-Quantum-Dilemma-Who-Decides-Satoshis-Coins/">Bitcoin's quantum dilemma and who decides Satoshi's coins</a>.
 
 ## References
 

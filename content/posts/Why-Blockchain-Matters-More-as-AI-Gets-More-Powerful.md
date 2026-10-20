@@ -17,7 +17,7 @@ A reader recently asked a sharp question: how should we think about combining AI
 
 I have long believed that AI and blockchain are fated to strike sparks off each other, and that at some point in the future the two technologies will show a strong, mutual relationship of dependence, connection, and complementarity.
 
-The reason, which I have shared in earlier writing, is this: the essential attributes of the two technologies are completely opposite, completely heterogeneous. One aspires toward centralization; the other aspires toward decentralization. One relies on centralized trust to achieve efficiency; the other sacrifices efficiency to achieve decentralization.
+The reason, which I have shared in earlier writing, is this: the essential attributes of the two technologies are completely opposite, completely heterogeneous. One aspires toward centralization; the other aspires toward decentralization. One relies on centralized trust to achieve efficiency; the other sacrifices efficiency to achieve decentralization. That same tension is now playing out inside Bitcoin itself, where the debate over whether to freeze Satoshi's exposed coins pits neutrality against security — a conflict we examine in our piece on <a href="/Crypto/Bitcoins-Quantum-Dilemma-Who-Decides-Satoshis-Coins/">Bitcoin's quantum dilemma</a>.
 
 It is much like the dynamic described in classical thought — two forces that both generate and restrain one another; elements that can both complete and conflict with each other.
 
