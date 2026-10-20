@@ -1,5 +1,5 @@
 ---
-title: "The Stronger AI Gets, the More Precious Blockchain Becomes"
+title: "Why Blockchain Matters More as AI Gets More Powerful"
 date: "2026-10-19T18:05:00+08:00"
 author: "Nick Yam"
 toc: true
@@ -10,7 +10,7 @@ tags:
   - "Blockchain"
   - "Decentralization"
   - "Crypto Adoption"
-url: "/Crypto/The-Stronger-AI-Gets-the-More-Precious-Blockchain-Becomes"
+url: "/Crypto/Why-Blockchain-Matters-More-as-AI-Gets-More-Powerful"
 ---
 
 A reader recently asked a sharp question: how should we think about combining AI with blockchain? Beyond financial speculation, what is a blockchain with a token actually good for? If its only real use is finance, how does that sector ever grow large? And how is an ordinary person supposed to take part?
