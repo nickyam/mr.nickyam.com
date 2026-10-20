@@ -33,7 +33,7 @@ To be fair, the warnings from Vitalik Buterin and Justin Drake look more like th
 
 For ordinary holders, the simplest and safest approach is to keep assets in addresses that have never sent a transaction. Modern Bitcoin address formats (such as P2PKH addresses starting with "1" or SegWit addresses starting with "bc1q") hide the public key behind a hash; the public key is only exposed on-chain when the address is spent from[5]. Therefore, as long as an address has never initiated a transaction, its public key stays unexposed and is relatively safer. After receiving funds, simply avoid sending from that address to preserve this protection.
 
-The true value of this debate may not lie in whether AI will actually crack ECDSA within months, but in the reminder it offers: cryptographic security rests on hard mathematical problems, and AI is advancing mathematics itself at an unprecedented pace. Preparation is wise, but panic and hasty action are often more real traps than the hypothetical threat itself.
+The true value of this debate may not lie in whether AI will actually crack ECDSA within months, but in the reminder it offers: cryptographic security rests on hard mathematical problems, and AI is advancing mathematics itself at an unprecedented pace. Preparation is wise, but panic and hasty action are often more real traps than the hypothetical threat itself. Seen from a wider angle, the same force — AI — is concentrating power, which is exactly why a decentralized blockchain becomes the more valuable as a final guardrail; we make that case <a href="/Crypto/Why-Blockchain-Matters-More-as-AI-Gets-More-Powerful/">in a separate essay</a>.
 
 ## References
 

@@ -37,7 +37,7 @@ Reading the exchange, the striking part is that both sides accept the same premi
 
 As for Bitcoin's still-large volatility today, Ammous's answer is that the transition from new asset to global money necessarily brings large appreciation and price discovery; once mature, appreciation slows and steadies, tracking economic growth rather than a rush to acquire monetary demand. The transition's volatility cannot be used to describe the destination.
 
-In the end, Ammous's ideal money is a pure money: predictable supply, no industrial demand, no issuer. Bitcoin is closer to that ideal than gold. And the most lethal blow in his entire rebuttal is the one that uses White's own premise against him: since gold's finest monetary trait is precisely that its stock is so hard to expand, why would removing the last sliver of dilutability become a defect?
+In the end, Ammous's ideal money is a pure money: predictable supply, no industrial demand, no issuer. Bitcoin is closer to that ideal than gold. And that independence from any issuer or central authority is, in our view, exactly what makes a decentralized blockchain the more valuable as centralized AI and institutions grow; we make that case <a href="/Crypto/Why-Blockchain-Matters-More-as-AI-Gets-More-Powerful/">in this essay</a>. And the most lethal blow in his entire rebuttal is the one that uses White's own premise against him: since gold's finest monetary trait is precisely that its stock is so hard to expand, why would removing the last sliver of dilutability become a defect?
 
 ## References
 

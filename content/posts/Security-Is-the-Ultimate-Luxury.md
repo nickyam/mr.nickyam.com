@@ -65,7 +65,7 @@ A product is a system. From the plainest quality-control principle, the more com
 
 Perhaps every user should keep Occam's-razor thinking close: do not multiply entities beyond necessity. Every flashy feature added is likely a risk point. Even if it isn't itself a risk, it can blind you to real ones elsewhere by diverting attention from security.
 
-Nature follows the way of "heaven and earth are unkind" — its cruelty lies in never teaching, only selecting. When a person's understanding cannot match their wealth, their money flows to someone else's pocket.
+Nature follows the way of "heaven and earth are unkind" — its cruelty lies in never teaching, only selecting. When a person's understanding cannot match their wealth, their money flows to someone else's pocket. It is the same cognition gap we examine when asking how ordinary people should approach the crypto ecosystem as AI and centralized finance expand; we take up that question <a href="/Crypto/Why-Blockchain-Matters-More-as-AI-Gets-More-Powerful/">in this essay</a>.
 
 Security is the ultimate luxury.
 

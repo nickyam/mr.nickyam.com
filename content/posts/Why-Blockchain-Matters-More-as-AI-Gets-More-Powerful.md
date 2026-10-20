@@ -27,6 +27,8 @@ I understand that feeling well, because it is human nature — we easily feel in
 
 **And it is precisely in such a moment that a decentralized platform like blockchain becomes especially precious, that it can hold the final line and set the final guardrail.**
 
+The point is not abstract. The same artificial intelligence whose mathematical leaps some researchers warn could one day <a href="/Crypto/Mathematical-Superintelligence-Could-Crack-Bitcoin-Signatures/">weaken elliptic-curve cryptography</a> — or, as others argue, <a href="/Crypto/The-Quantum-Sword-Honed-by-AI/">accelerate the quantum threat</a> to Bitcoin's signatures — is the very force pulling control toward centralization. Blockchain's answer is not to fight AI, but to remain the one layer no single center can rewrite.
+
 So logically, the two must eventually combine.
 
 That is my intuition and feeling, drawn purely from logic and conviction.
@@ -55,7 +57,7 @@ As for consortium chains, I have always held that they are not real blockchains.
 
 **Everything a consortium chain can solve can be solved with the traditional distributed technologies that existed before blockchain appeared.** [3]
 
-I believe blockchain's role extends beyond finance, to a much broader set of applications built on strong trust.
+I believe blockchain's role extends beyond finance, to a much broader set of applications built on strong trust — which is also why a fixed, predictable supply is a <a href="/Crypto/Bitcoin-Fixed-Supply-Feature-Not-a-Flaw/">feature of sound decentralized money rather than a flaw</a>.
 
 ## How ordinary people should approach the crypto ecosystem
 
@@ -68,6 +70,8 @@ The reason: although the capital barrier to entering crypto investing is extreme
 **From what I observe, the vast majority of retail investors in this ecosystem still lose money, no different from any other field of investing.**
 
 In the crypto ecosystem, if your cognition does not rise to the occasion, a low capital barrier does not become an advantage — it becomes a disadvantage, making it easier for retail to lose money. So be clear-eyed and honest in assessing your own cognition, and only then participate cautiously, with an allocation mindset.
+
+And as we have argued before, when your understanding cannot keep pace with your holdings, security becomes the <a href="/Crypto/Security-Is-the-Ultimate-Luxury/">ultimate luxury</a> worth taking seriously.
 
 ## References
 
