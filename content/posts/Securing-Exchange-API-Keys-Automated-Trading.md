@@ -1,5 +1,5 @@
 ---
-title: "Securing Exchange API Keys for Automated Crypto Trading"
+title: "How to Secure Exchange API Keys for Crypto Trading Bots"
 date: "2026-10-17T10:02:00+08:00"
 author: "Nick Yam"
 toc: true
@@ -10,7 +10,7 @@ tags:
   - "Trading Bots"
   - "Exchange"
   - "Best Practices"
-url: "/Crypto/Securing-Exchange-API-Keys-Automated-Trading"
+url: "/Crypto/How-to-Secure-Exchange-API-Keys-for-Crypto-Trading-Bots"
 ---
 
 If you run any kind of automated trading — a simple rebalancing script, a grid bot, or a full strategy engine — you cannot avoid the exchange **API key**. It is the credential that lets your code move money. Functionally, it belongs to the same family as a database password or a cloud account key, and it deserves the same discipline: **grant the minimum permission necessary, and nothing more.**
