@@ -47,7 +47,7 @@ But as we all know, those experiments only ever sprouted — they never bloomed,
 
 The reason is simple: because the Core team held firmly to Bitcoin's existing properties, it effectively rejected every proposal that would change how Bitcoin's scripting actually works — a conservatism that, as we have seen in the fight over <a href="/Crypto/Bitcoins-Quantum-Dilemma-Who-Decides-Satoshis-Coins/">who even gets to change Bitcoin</a>, runs deep in the protocol's governance. That left Bitcoin unable to run Ethereum-style Turing-complete contracts on chain. Any extension built on top of Bitcoin that hoped to run complex logic turned out to be technically weak at the center, easy to attack, and simply unable to carry the transaction volume that a real business needs [5].
 
-At that point, Bitcoin's future was already legible. The most likely outcome is that Bitcoin remains, for the foreseeable future, an asset whose main function is storing value — whether you call it digital gold, or, as I prefer, a digital collectible.
+At that point, Bitcoin's future was already legible. The most likely outcome is that Bitcoin remains, for the foreseeable future, an asset whose main function is storing value — whether you call it digital gold, or, as I prefer, a digital collectible. That institutional framing has now been made explicit: in its first long-term forecast, JPMorgan pencils Bitcoin in as a 10% compound annual return asset and nothing more — we trace that number in our piece on [JPMorgan's first Bitcoin forecast](/Crypto/JPMorgan-First-Bitcoin-Long-Term-Forecast/).
 
 Dorsey's hope that Bitcoin would find a real application layer will probably not come true.
 
