@@ -49,7 +49,7 @@ So breaking modern cryptography is a long-distance race stacking physics, mathem
 
 Facing FUD, the correct stance is neither fear nor blind optimism. What we should actually do is push forward the relevant systems' post-quantum upgrades — for example, migrating to post-quantum address formats. At the same time, we should keep a clear-headed wariness toward rhetoric that manufactures market noise through "quantum terrorism" to harvest retail.
 
-The quantum threat is not in the next year or two, so there is no need to panic. Rather than anxiously chasing the noise, it is better to relax, study the relevant knowledge in advance, safeguard your assets well (for instance, avoid reusing addresses whose public keys have already been exposed), closely watch the post-quantum upgrade progress of core developers, and adapt as circumstances evolve.
+The quantum threat is not in the next year or two, so there is no need to panic. Rather than anxiously chasing the noise, it is better to relax, study the relevant knowledge in advance, safeguard your assets well (for instance, avoid reusing [addresses whose public keys have already been exposed](/Crypto/Bitcoin-Quantum-Risk-6-Million-BTC-Exposed/)), closely watch the post-quantum upgrade progress of core developers, and adapt as circumstances evolve.
 
 ## References
 
