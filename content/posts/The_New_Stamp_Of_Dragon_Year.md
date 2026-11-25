@@ -8,6 +8,9 @@ tags:
   - "Dragon"
   - "Stamp"
 url: "/World/The_New_Stamp_Of_Dragon_Year"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 <!-- more -->

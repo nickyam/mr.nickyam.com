@@ -7,6 +7,9 @@ categories:
 tags:
   - "Covid-19"
 url: "/World/Recommendations-for-pregnant-women"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 ![](https://raw.githubusercontent.com/nickyam/img/master/pics/Pregnant-woman.jpeg)

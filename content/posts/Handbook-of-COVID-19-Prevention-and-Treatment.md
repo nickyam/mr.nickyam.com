@@ -7,6 +7,9 @@ categories:
 tags:
   - "Covid-19"
 url: "/World/Handbook-of-COVID-19-Prevention-and-Treatment"
+robotsNoIndex: true
+sitemap:
+  disable: true
 aliases:
   - "/World/Handbook-of-COVID-19-Prevention and Treatment.html"
 ---

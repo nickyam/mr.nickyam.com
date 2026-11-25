@@ -8,6 +8,9 @@ categories:
 tags:
   - "Pet"
 url: "/World/Miss-a-Kitten"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 After the morning run, I played with my iPhone in the shade of trees.

@@ -8,6 +8,9 @@ categories:
 tags:
   - "Mark"
 url: "/World/The-end-of-2018"
+robotsNoIndex: true
+sitemap:
+  disable: true
 aliases:
   - "/World/The-end-of -2018.html"
 ---

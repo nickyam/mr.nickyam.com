@@ -7,6 +7,9 @@ categories:
 tags:
   - "BTC"
 url: "/Crypto/Some_Points_about_the_Value_of_BTC"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 I recently have been thinking of the value of Bitcoin and wanted to know the logic about BTC. As we all know, BTC is a virtual currency based on deflation logic. Due to the deflation property of its design, the greater the degree of attention, the more users, the higher price. What I came to understand recently is some controversial parts:

@@ -8,6 +8,9 @@ categories:
 tags:
   - "Life"
 url: "/Tech/If_U_cannot_win_a_argument"
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 <!-- more -->

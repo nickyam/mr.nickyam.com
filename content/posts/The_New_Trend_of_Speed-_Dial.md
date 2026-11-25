@@ -8,6 +8,9 @@ categories:
 tags:
   - "Browser"
 url: "/Tech/The_New_Trend_of_Speed-_Dial"
+robotsNoIndex: true
+sitemap:
+  disable: true
 aliases:
   - "/Tech/The_New_Trend_of_Speed ​_Dial.html"
 ---
