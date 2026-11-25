@@ -10,7 +10,7 @@ tags:
 url: "/Tech/Good_Job_Tencent"
 ---
 
-![](https://telegraph-image.pages.dev/file/79b1db4224de54f73e4a1.jpg)
+![](https://yun.nickyam.com/file/79b1db4224de54f73e4a1.jpg)
 
 Tencent released its quarterly report yesterday, revealing a year-on-year revenue growth of 10% and a profit increase of 27%. This has sparked various interpretations and discussions in public opinion. Let's not delve into specific details here; those who wish to see positive views can find favorable articles, while those interested in negative perspectives can seek critical analyses. Everyone can find what they prefer.
 

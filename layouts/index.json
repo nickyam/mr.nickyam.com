@@ -19,7 +19,7 @@
   {{- if and (not .Params.searchHidden) (ne .Layout "archives") (ne .Layout "search") -}}
     {{- if not (in $seen .Permalink) -}}
       {{- $seen = $seen | append .Permalink -}}
-      {{- $index = $index | append (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary) -}}
+      {{- $index = $index | append (dict "title" .Title "content" (.Plain | truncate 2000 "") "permalink" .Permalink "summary" (.Summary | plainify | truncate 300 "")) -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

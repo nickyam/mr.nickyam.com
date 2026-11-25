@@ -9,7 +9,7 @@ tags:
 url: "/Crypto/On-the-Self-Limitation-of-Ethereum"
 ---
 
-Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers' discussion and criticism.![](https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg)
+Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers' discussion and criticism.![](https://yun.nickyam.com/file/3b97d5f2b70bfab540ab8.jpg)
 
 The issue of self-limitation is actually somewhat subtle. Ethereum also draws on Bitcoin's method of dynamically adjusting transaction fees (miner fees) in its calculations. For Bitcoin, the miner fee = vBytes (transaction size in bytes) * fee/vBytes (fee rate denominated in BTC); for Ethereum, the gas fee = gas (amount of computational resources consumed by instructions) * gas price (denominated in ETH). Therefore, on the surface, there doesn't seem to be a problem with whether the fee rate or gas price is denominated in BTC, ETH, or USD. From the perspective of supply and demand economics, if the pricing currency relative to fiat currency is such that the expected fee income for miners (converted to fiat currency value) is just their cost (denominated in fiat currency) plus a reasonable profit, they can lower the fee rate (fee/vBytes or gas price) to maintain stability of the product of vBytes * fee/vBytes or gas * gas price relative to fiat currency.
 <!--more-->

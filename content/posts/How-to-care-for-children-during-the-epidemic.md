@@ -1,5 +1,5 @@
 ---
-title: "How to care for children during the epidemic ?"
+title: "How to Care for Children During the Epidemic"
 date: "2020-04-01T20:00:00+08:00"
 toc: true
 categories:

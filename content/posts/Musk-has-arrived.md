@@ -16,7 +16,7 @@ Which Musk are we talking about? The one who produces [Tesla](/Crypto/Do_not_app
 
 <!--more-->
 
-For Musk, who is more than an industrial capitalist but not quite a financial capitalist, this land is like a second home.![](https://telegraph-image.pages.dev/file/96794f43125d133c24339.jpg)
+For Musk, who is more than an industrial capitalist but not quite a financial capitalist, this land is like a second home.![](https://yun.nickyam.com/file/96794f43125d133c24339.jpg)
 
 
 Industrial capitalists and financial capitalists have a love-hate relationship. The former needs the latter's financial support to grow and prosper, but when it comes to sharing and seizing surplus value, they become bitter rivals, envious of each other's gains.

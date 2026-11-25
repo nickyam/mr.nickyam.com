@@ -10,7 +10,7 @@ tags:
 url: "/Crypto/Voting_Methods_in_DAOs"
 ---
 
-![](https://telegraph-image.pages.dev/file/043ad74d2fe80a746f0c2.png)
+![](https://yun.nickyam.com/file/043ad74d2fe80a746f0c2.png)
 
 During the recent six months of practicing DAOs (Decentralized Autonomous Organizations), the basic form of organizational governance, namely voting, has been frequently pondered upon.
 

@@ -16,7 +16,7 @@ Firstly, it helps to protect your privacy and maintain confidentiality. By conce
 Secondly, an anonymous email service reduces the risk of spam, unwanted solicitations, and potential data breaches. By using a separate email address that doesn't link directly to your personal information, you can avoid exposing yourself to unnecessary risks. 
 
 Finally, an anonymous email service allows for greater control over your online presence, giving you the freedom to explore and engage without compromising your privacy.
-![](https://telegraph-image.pages.dev/file/fcce9aea1448ced0b3d6d.png)
+![](https://yun.nickyam.com/file/fcce9aea1448ced0b3d6d.png)
 
 1. ProtonMail
 Website: https://protonmail.com/

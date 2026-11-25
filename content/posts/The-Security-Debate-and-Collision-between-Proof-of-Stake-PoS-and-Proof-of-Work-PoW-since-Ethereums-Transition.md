@@ -16,7 +16,7 @@ Ever since Ethereum transitioned from PoW to PoS, the discussion and collision r
 <!--more-->
 
 However, his calculations were based on an optimistic assumption that attackers would spend money to buy mining rigs or stake coins to participate as nodes in block generation competition. This assumption implies that attackers are civilized and polite, participating in the game according to the rules and attempting to win under those rules.
-![](https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg)
+![](https://yun.nickyam.com/file/3b97d5f2b70bfab540ab8.jpg)
 But the lesson from human history is that you should never expect disruptors to adhere to your game rules. Whether through violent revolution or disruptive innovation, true attackers always overturn the table and start afresh. Kang Youwei wanted to preserve the monarchy, Sun Yat-sen sought revolution, and Mao Runzhi was once an anarchist believer, but they eventually had to recognize reality and realize that violent revolution was the only way out.
 
 Let's first assume a complete PoS blockchain that starts with the genesis block and is generated using the PoS method. The block production method is similar to Ethereum's PoS, where pseudo-random (computers cannot generate true random numbers) selection of validators or voters is employed. Voters finalize a set of blocks, called an epoch, at regular intervals (which must rely on an external clock since PoS lacks intrinsic time).

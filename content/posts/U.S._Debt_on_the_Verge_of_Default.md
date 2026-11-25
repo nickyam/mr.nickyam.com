@@ -10,7 +10,7 @@ tags:
 url: "/World/U.S._Debt_on_the_Verge_of_Default"
 ---
 
-![](https://telegraph-image.pages.dev/file/c2aeeea6af7ca3d2814f3.jpg)
+![](https://yun.nickyam.com/file/c2aeeea6af7ca3d2814f3.jpg)
 
 Bitcoin rebounded above $27,000 overnight.
 

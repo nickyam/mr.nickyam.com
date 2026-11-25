@@ -1,0 +1,21 @@
+# Cloudflare Pages headers for mr.nickyam.com
+# Docs: https://developers.cloudflare.com/pages/configuration/headers/
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), interest-cohort=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+# Fingerprinted CSS/JS (stylesheet.<hash>.css) never changes content in place.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Search index: cheap to revalidate, but do not refetch on every keystroke trip.
+/index.json
+  Cache-Control: public, max-age=3600
+
+# Static images are not fingerprinted — keep them on a shorter TTL than assets.
+/images/*
+  Cache-Control: public, max-age=86400

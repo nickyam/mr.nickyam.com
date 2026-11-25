@@ -1,5 +1,5 @@
 ---
-title: "The Scarcer Ability , Asking the Right Questions"
+title: "The Scarcer Ability: Asking the Right Questions"
 date: "2023-07-19T18:12:00+08:00"
 author: "Nick Yam"
 toc: true

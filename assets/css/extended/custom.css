@@ -102,3 +102,20 @@
   text-decoration: underline;
 }
 
+/* -------------------------------------------------------------------------
+   Mobile nav (2026-11-25): PaperMod turns .menu into a horizontal scroller
+   (overflow-x:auto + nowrap), but as a flex child it keeps its default
+   min-width:auto, so with 8-9 menu items its min-content width pushed the
+   whole page wider than the viewport — cards and body text were clipped at
+   the right edge on phones. Let the menu shrink and scroll instead.
+   ------------------------------------------------------------------------- */
+@media screen and (max-width: 768px) {
+  .header-nav {
+    column-gap: 0;
+  }
+  .menu {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+}
+

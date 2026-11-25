@@ -4,7 +4,7 @@
 # =====================================================================
 
 baseURL = "https://mr.nickyam.com/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Mr.Yam"
 theme = "PaperMod"
 
@@ -46,6 +46,11 @@ defaultContentLanguage = "en"
   description = "Mr.Yam — Bitcoin, crypto, Web3 and technology commentary. East Tells West."
   author = "Nick Yam"
   keywords = ["crypto", "btc", "china", "bitcoin", "web3", "tech"]
+
+  # Social share fallback (og:image / twitter:image). Per-post images are taken
+  # from front matter `images`/`cover`, then from the first <img> in the body;
+  # this file is the last resort so no page ever ships without a preview card.
+  images = ["images/share-default.png"]
 
   # Theme / UI
   defaultTheme = "light"
@@ -134,6 +139,11 @@ mainSections = ["posts"]
     name = "Search"
     url = "/search/"
     weight = 70
+  [[menu.main]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 80
 
 # ---------------------------------------------------------------------
 # Output formats

@@ -21,7 +21,7 @@ Earlier this month, Tether, the leading stablecoin issuer by market capitalizati
 
 While the [Federal Reserve](/Crypto/The-Feds-Swan-Song) bears the risk of bank failures and desperately raises interest rates to fight inflation, Tether made a bold move by buying U.S. bonds at a discount. The more interest the Federal Reserve raises, the more profit Tether receives, and the interest becomes mere surplus. Tether, holding a substantial amount of low-priced, high-yielding U.S. bonds, has become a significant beneficiary of this forced liquidity injection.
 
-[![](https://telegraph-image.pages.dev/file/4e896b1079c7bffcf6928.jpg)](https://telegraph-image.pages.dev/file/4e896b1079c7bffcf6928.jpg)
+[![](https://yun.nickyam.com/file/4e896b1079c7bffcf6928.jpg)](https://yun.nickyam.com/file/4e896b1079c7bffcf6928.jpg)
 
 3.  On the 17th, Tether announced that starting in May, it would allocate up to 15% of its profits to "buy the dip" in Bitcoin!
 
@@ -31,7 +31,7 @@ The game is about to get interesting. With the Federal Reserve maintaining high 
 
 If we look back at Tether's reserve composition during the bullish market two years ago when the Federal Reserve lowered interest rates and flooded the market while the US dollar weakened, we'll find that just two years ago, their primary assets were commercial papers, with Treasury bills accounting for only 2.94% of their liquid assets.
 
-[![](https://telegraph-image.pages.dev/file/e172ad586c38feeca795c.png)](https://telegraph-image.pages.dev/file/e172ad586c38feeca795c.png)
+[![](https://yun.nickyam.com/file/e172ad586c38feeca795c.png)](https://yun.nickyam.com/file/e172ad586c38feeca795c.png)
 
 The Federal Reserve's interest rate hikes caused Silicon Valley Bank to collapse and nearly killed USDC. SEC regulation dealt a heavy blow to Paxos. Meanwhile, the opaque Tether mastered countercyclical adjustments and made a fortune in silence.
 

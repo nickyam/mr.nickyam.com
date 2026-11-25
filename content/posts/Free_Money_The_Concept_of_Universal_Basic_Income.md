@@ -10,7 +10,7 @@ tags:
 url: "/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income"
 ---
 
-![](https://telegraph-image.pages.dev/file/6fa1ccd08a5756a18a2ce.jpg)
+![](https://yun.nickyam.com/file/6fa1ccd08a5756a18a2ce.jpg)
 
 With the rise of ChatGPT and OpenAI, another cryptocurrency-related project founded by Sam Altman called Worldcoin has also caught people's attention. What does Worldcoin aim to do? It aims to use blockchain technology to implement Universal Basic Income (UBI), which means unconditionally giving free money to everyone, enough to cover their basic living expenses. This way, the problem of poverty can be solved in one fell swoop. People will no longer worry about their basic needs and can dedicate their time to more meaningful work.
 

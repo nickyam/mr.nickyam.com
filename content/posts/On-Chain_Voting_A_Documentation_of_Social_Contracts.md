@@ -10,7 +10,7 @@ tags:
 url: "/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts"
 ---
 
-![](https://telegraph-image.pages.dev/file/5f50b3ff760d1243ef0c0.jpg)
+![](https://yun.nickyam.com/file/5f50b3ff760d1243ef0c0.jpg)
 
 The discussion in this article is not about using blockchain as a voting technology to fulfill certain voting requirements in the external world, such as conducting elections for a state governor in the United States on the blockchain or creating prediction markets where people can vote on whether the US will default on its debt or reach an agreement at the last moment to avoid default. These examples merely utilize blockchain to facilitate voting on external matters. The focus of this article is on the issue of decentralized organizations conducting on-chain voting themselves, which may involve a blockchain-based DAO voting on governance proposals or even governing the blockchain itself.
 

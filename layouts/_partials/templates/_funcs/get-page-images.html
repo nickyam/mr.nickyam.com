@@ -1,0 +1,65 @@
+{{- /*
+  PROJECT OVERRIDE of themes/PaperMod/layouts/_partials/templates/_funcs/get-page-images.html
+  Added: if a post has no `images`/`cover`/featured resource, use the FIRST
+  <img> that appears in the rendered body as og:image / twitter:image.
+  Without it every post shipped without any social preview image.
+  Falls back to site.Params.images (static/images/share-default.png) after that.
+*/ -}}
+{{- $imgs := slice }}
+{{- $imgParams := .Params.images }}
+{{- $resources := .Resources.ByType "image" -}}
+{{/* Find featured image resources if the images parameter is empty. */}}
+{{- if not $imgParams }}
+  {{- $featured := $resources.GetMatch "*feature*" -}}
+  {{- if not $featured }}{{ $featured = $resources.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+  {{- with $featured }}
+    {{- $imgs = $imgs | append (dict
+      "Image" .
+      "RelPermalink" .RelPermalink
+      "Permalink" .Permalink) }}
+  {{- end }}
+{{- end }}
+{{/* PROJECT ADDITION: first inline image of the post body. */}}
+{{- if and (not $imgParams) (not $imgs) .IsPage }}
+  {{- with findRESubmatch `<img[^>]+src=["']?([^"'\s>]+)` .Content 1 }}
+    {{- $src := (index (index . 0) 1) | htmlUnescape }}
+    {{- if $src }}
+      {{- $imgs = $imgs | append (dict
+        "RelPermalink" $src
+        "Permalink" $src) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{/* Use the first one of site images as the fallback. */}}
+{{- if and (not $imgParams) (not $imgs) }}
+  {{- with site.Params.images }}
+    {{- $imgParams = first 1 . }}
+  {{- end }}
+{{- end }}
+{{/* Parse page's images parameter. */}}
+{{- range $imgParams }}
+  {{- $img := . }}
+  {{- $url := urls.Parse $img }}
+  {{- if eq $url.Scheme "" }}
+    {{/* Internal image. */}}
+    {{- with $resources.GetMatch $img -}}
+      {{/* Image resource. */}}
+      {{- $imgs = $imgs | append (dict
+        "Image" .
+        "RelPermalink" .RelPermalink
+        "Permalink" .Permalink) }}
+    {{- else }}
+      {{- $imgs = $imgs | append (dict
+        "RelPermalink" (relURL $img)
+        "Permalink" (absURL $img)
+      ) }}
+    {{- end }}
+  {{- else }}
+    {{/* External image */}}
+    {{- $imgs = $imgs | append (dict
+      "RelPermalink" $img
+      "Permalink" $img
+    ) }}
+  {{- end }}
+{{- end }}
+{{- return $imgs }}

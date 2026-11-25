@@ -12,7 +12,7 @@ aliases:
   - "/Tech/Liu Cixin_on_ChatGPT_Human_Ineptitude_as_Humanity's_Final_Barrier.html"
 ---
 
-[![](https://telegraph-image.pages.dev/file/cd138c0d7c62435448c92.jpg)](https://telegraph-image.pages.dev/file/cd138c0d7c62435448c92.jpg)
+[![](https://yun.nickyam.com/file/cd138c0d7c62435448c92.jpg)](https://yun.nickyam.com/file/cd138c0d7c62435448c92.jpg)
 
 In his speech titled "Sustainable Futures in Science Fiction Literature" at the United Nations Chinese Language Day, Liu Cixin offered a unique perspective on the future of humanity through the lens of science fiction.
 

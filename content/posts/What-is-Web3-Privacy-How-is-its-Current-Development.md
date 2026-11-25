@@ -11,7 +11,7 @@ url: "/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development"
 
 Generally speaking, internet privacy primarily concerns the invisibility of users' data information, such as their identities, behaviors, and activities. In the era of the internet, all our information and actions are presented in a digital form. However, once any system storing digital information is connected to the network, it becomes a potential target for hackers. This is especially critical when it comes to sensitive information related to finance and personal health. The privacy and security of data become even more important.
 <!--more-->
-Based on the development of the internet, it has gone through different privacy storage channels from Web 1.0 to the current Web 3.0:![](https://telegraph-image.pages.dev/file/dddba150b351a51438c85.jpg)
+Based on the development of the internet, it has gone through different privacy storage channels from Web 1.0 to the current Web 3.0:![](https://yun.nickyam.com/file/dddba150b351a51438c85.jpg)
 
 Web 1.0 was a static internet where the main applications were network media. Websites provided content, and users could only passively browse through text, images, and videos. They couldn't actively participate in the creation process.
 

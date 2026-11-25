@@ -19,4 +19,4 @@ Their investment in Uniswap is a source of pride for Paradigm. Noah, the lead de
 
 Just recently, Paradigm quietly modified their website's bold slogans and manifestos. Previously, it read: "Paradigm backs disruptive crypto/Web3 companies and protocols with as little as $1M and as much as $100M+." The revised version now states: "Paradigm is a research-driven technology investment firm." They have also removed the strong expressions related to cryptocurrencies and Web3, such as "We believe cryptocurrencies will define the next few decades."
 
-It is rumored that Paradigm couldn't withstand the loneliness of the cryptocurrency bear market and couldn't resist the temptation of artificial intelligence. They are reportedly preparing to enter the field of AI.![](https://telegraph-image.pages.dev/file/a17bbfab221ad46888b94.jpg)
+It is rumored that Paradigm couldn't withstand the loneliness of the cryptocurrency bear market and couldn't resist the temptation of artificial intelligence. They are reportedly preparing to enter the field of AI.![](https://yun.nickyam.com/file/a17bbfab221ad46888b94.jpg)

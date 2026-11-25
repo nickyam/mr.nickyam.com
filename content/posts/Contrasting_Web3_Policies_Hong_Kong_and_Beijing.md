@@ -1,5 +1,5 @@
 ---
-title: "Contrasting Web3 Policies , Hong Kong's Virtual Asset Focus and Beijing's Internet 3.0 Emphasis"
+title: "Contrasting Web3 Policies: Hong Kong's Virtual Asset Focus and Beijing's Internet 3.0 Emphasis"
 date: "2023-06-06T20:11:32+08:00"
 toc: true
 categories:
@@ -12,7 +12,7 @@ url: "/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing"
 
 Starting from June 1st, the guidelines for virtual asset trading platform operators and the anti-money laundering guidelines (referred to as the "Guidelines") issued by the Hong Kong Securities and Futures Commission (SFC) have officially come into effect. The SFC has begun accepting applications for licenses from virtual asset trading platform operators and allows retail investors to use licensed virtual asset trading platforms.
 <!--more-->
-After much anticipation, the application date finally took effect on the first day of June. In the past month, Beijing also released the "Beijing Internet 3.0 Innovation and Development White Paper." The white paper emphasizes that Internet 3.0 encompasses immersive sensory experiences and the integration of real and virtual economic activities, including the concepts of the metaverse and Web3. These concepts reflect the development trend of human society and the economy shifting from the real to the virtual, virtual empowering the real, and the integration of the real and virtual.![](https://telegraph-image.pages.dev/file/f230de92236a4b1ca0878.jpg)
+After much anticipation, the application date finally took effect on the first day of June. In the past month, Beijing also released the "Beijing Internet 3.0 Innovation and Development White Paper." The white paper emphasizes that Internet 3.0 encompasses immersive sensory experiences and the integration of real and virtual economic activities, including the concepts of the metaverse and Web3. These concepts reflect the development trend of human society and the economy shifting from the real to the virtual, virtual empowering the real, and the integration of the real and virtual.![](https://yun.nickyam.com/file/f230de92236a4b1ca0878.jpg)
 
 So, what are the differences between Hong Kong's Web3 policies and Beijing's Internet 3.0?
 

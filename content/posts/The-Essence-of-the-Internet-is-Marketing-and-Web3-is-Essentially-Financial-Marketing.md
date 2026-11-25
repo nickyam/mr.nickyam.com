@@ -14,7 +14,7 @@ There are often stories that people love to tell: Two classmates, A and B, gradu
 <!--more-->
 
 Ultimately, the difference in business models determined their divergent destinies. The software company sold "products," whereas the internet company "sold" products.
-![](https://telegraph-image.pages.dev/file/dddba150b351a51438c85.jpg)
+![](https://yun.nickyam.com/file/dddba150b351a51438c85.jpg)
 
 
 Unlike the telecommunications industry, the internet industry is built on open-source software. In the telecommunications industry, equipment manufacturers (such as Huawei) are responsible for technology development and sell the products to operators (such as Mobile) for service provision. Equipment manufacturers occupy the upstream position in the industry chain of operators. On the other hand, internet companies utilize free open-source software and inexpensive off-the-shelf hardware. By bypassing the Internet of Everything (IOE), internet companies reduce costs associated with the upstream industry chain. Consequently, the work performed by technical personnel in internet companies essentially involves integration or application development. To be honest, it is not highly technologically advanced work, especially without core hard technology.
