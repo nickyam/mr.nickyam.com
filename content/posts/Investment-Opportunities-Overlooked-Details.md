@@ -6,10 +6,10 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Investing"
-  - "Nvidia"
-  - "AI"
   - "Bitcoin"
+  - "Investing"
+  - "AI"
+  - "Chips"
 url: "/Crypto/Investment-Opportunities-Overlooked-Details"
 ---
 

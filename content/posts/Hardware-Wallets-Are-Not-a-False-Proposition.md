@@ -6,9 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Hardware Wallet"
   - "Self-Custody"
-  - "Cold Storage"
   - "Security"
 url: "/Crypto/Hardware-Wallets-Are-Not-a-False-Proposition"
 ---

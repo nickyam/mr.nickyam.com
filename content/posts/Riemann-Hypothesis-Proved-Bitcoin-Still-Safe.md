@@ -7,9 +7,8 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Riemann Hypothesis"
-  - "Cryptography"
   - "Security"
+  - "Cryptography"
 url: "/Crypto/Riemann-Hypothesis-Proved-Bitcoin-Still-Safe"
 ---
 

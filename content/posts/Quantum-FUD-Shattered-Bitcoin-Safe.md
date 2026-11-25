@@ -7,9 +7,9 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Quantum Computing"
-  - "Cryptography"
   - "Security"
+  - "Cryptography"
+  - "Quantum"
 url: "/Crypto/Quantum-FUD-Shattered-Bitcoin-Safe"
 ---
 

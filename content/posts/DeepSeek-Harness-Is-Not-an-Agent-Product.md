@@ -7,9 +7,6 @@ categories:
   - "Tech"
 tags:
   - "AI"
-  - "DeepSeek"
-  - "Agent"
-  - "Plugin"
 url: "/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product"
 ---
 

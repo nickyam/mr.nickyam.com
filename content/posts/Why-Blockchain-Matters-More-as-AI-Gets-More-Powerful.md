@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "AI"
   - "Blockchain"
-  - "Decentralization"
-  - "Crypto Adoption"
+  - "AI"
 url: "/Crypto/Why-Blockchain-Matters-More-as-AI-Gets-More-Powerful"
 ---
 

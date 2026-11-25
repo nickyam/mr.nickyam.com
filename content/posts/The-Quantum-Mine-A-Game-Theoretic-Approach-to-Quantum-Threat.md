@@ -7,8 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Quantum Computing"
-  - "Game Theory"
+  - "Quantum"
 url: "/Crypto/The-Quantum-Mine-A-Game-Theoretic-Approach-to-Quantum-Threat"
 ---
 

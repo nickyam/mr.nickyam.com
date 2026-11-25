@@ -5,7 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Covid-19"
+  - "COVID-19"
 url: "/World/Recommendations-for-pregnant-women"
 robotsNoIndex: true
 sitemap:

@@ -6,7 +6,6 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Mac"
   - "Apple"
 url: "/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart"
 robotsNoIndex: true

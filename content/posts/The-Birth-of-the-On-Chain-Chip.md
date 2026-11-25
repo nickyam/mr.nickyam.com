@@ -6,10 +6,10 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "ETH"
+  - "Ethereum"
   - "Blockchain"
   - "AI"
-  - "Chip"
+  - "Chips"
 url: "/Crypto/The-Birth-of-the-On-Chain-Chip"
 ---
 

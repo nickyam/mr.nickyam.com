@@ -7,9 +7,8 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Halving"
-  - "Market Cycles"
-  - "Midterm Elections"
+  - "Politics"
+  - "Markets"
 url: "/Crypto/Midterm-Elections-Bitcoin-Halving-Cycle"
 ---
 

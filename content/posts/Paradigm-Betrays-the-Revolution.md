@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Paradigm"
+  - "Investing"
 url: "/Crypto/Paradigm-Betrays-the-Revolution"
 ---
 

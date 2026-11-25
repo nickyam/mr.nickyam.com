@@ -5,7 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Covid-19"
+  - "COVID-19"
 url: "/World/Handbook-of-COVID-19-Prevention-and-Treatment"
 robotsNoIndex: true
 sitemap:

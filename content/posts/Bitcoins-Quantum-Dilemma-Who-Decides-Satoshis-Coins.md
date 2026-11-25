@@ -7,10 +7,8 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Quantum"
-  - "Satoshi"
   - "Security"
-  - "Post-Quantum"
+  - "Quantum"
 url: "/Crypto/Bitcoins-Quantum-Dilemma-Who-Decides-Satoshis-Coins"
 ---
 

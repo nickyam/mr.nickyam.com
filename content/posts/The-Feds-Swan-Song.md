@@ -6,8 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Fed"
+  - "Bitcoin"
+  - "Macro"
 url: "/Crypto/The-Feds-Swan-Song"
 aliases:
   - "/Crypto/The-Fed’s-Swan-Song.html"

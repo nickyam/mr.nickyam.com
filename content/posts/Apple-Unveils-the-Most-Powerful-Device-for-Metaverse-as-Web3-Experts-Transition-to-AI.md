@@ -5,8 +5,8 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Apple"
   - "AI"
+  - "Apple"
 url: "/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI"
 ---
 

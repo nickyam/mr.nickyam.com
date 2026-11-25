@@ -5,8 +5,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "ETH"
+  - "Bitcoin"
+  - "Ethereum"
 url: "/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition"
 aliases:
   - "/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-(PoS)-and-Proof-of-Work-(PoW)-since-Ethereum's-Transition.html"

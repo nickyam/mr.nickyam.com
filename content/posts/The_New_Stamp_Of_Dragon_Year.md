@@ -5,8 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Dragon"
-  - "Stamp"
+  - "Life"
 url: "/World/The_New_Stamp_Of_Dragon_Year"
 robotsNoIndex: true
 sitemap:

@@ -7,9 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Market Analysis"
-  - "Correlation"
-  - "Volatility"
+  - "Markets"
 url: "/Crypto/Bitcoin-Lower-Drawdown-Not-Decoupling"
 ---
 

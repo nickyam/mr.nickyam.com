@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin"
 aliases:
   - "/Crypto/The-Essential-Significance-of-Hoarding Bitcoin.html"

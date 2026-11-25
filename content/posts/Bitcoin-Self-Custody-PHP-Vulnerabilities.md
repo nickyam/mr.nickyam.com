@@ -9,7 +9,6 @@ tags:
   - "Bitcoin"
   - "Self-Custody"
   - "Security"
-  - "Vulnerabilities"
 url: "/Crypto/Bitcoin-Self-Custody-PHP-Vulnerabilities"
 ---
 

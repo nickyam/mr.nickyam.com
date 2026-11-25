@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Short Squeeze"
-  - "Derivatives"
-  - "Market Analysis"
+  - "Bitcoin"
+  - "Markets"
 url: "/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops"
 ---
 

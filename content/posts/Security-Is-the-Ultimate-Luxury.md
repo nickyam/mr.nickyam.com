@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Hardware Wallet"
-  - "Cold Storage"
-  - "Supply Chain"
   - "Self-Custody"
+  - "Security"
 url: "/Crypto/Security-Is-the-Ultimate-Luxury"
 ---
 

@@ -7,9 +7,9 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Quantum Computing"
+  - "Quantum"
+  - "Markets"
   - "Market Psychology"
-  - "Risk"
 url: "/Crypto/Quantum-Fear-Suppressing-Bitcoin-Price"
 ---
 

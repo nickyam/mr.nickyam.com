@@ -7,11 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Jack Dorsey"
-  - "Digital Gold"
-  - "Store of Value"
-  - "P2P Cash"
-  - "Nostr"
+  - "Web3"
 url: "/Crypto/Jack-Dorsey-If-Bitcoin-Ends-Up-Just-Digital-Gold-It-Has-Failed"
 ---
 

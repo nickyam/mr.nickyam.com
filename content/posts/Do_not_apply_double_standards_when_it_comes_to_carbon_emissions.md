@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
   - "Tesla"
 url: "/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions"
 ---

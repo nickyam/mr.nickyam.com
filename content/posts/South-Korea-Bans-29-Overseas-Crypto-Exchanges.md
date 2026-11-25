@@ -7,9 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Regulation"
-  - "Exchange"
-  - "Korea"
-  - "Compliance"
+  - "Exchanges"
 url: "/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges"
 ---
 

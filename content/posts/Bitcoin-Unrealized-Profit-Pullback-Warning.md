@@ -6,9 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "On-chain"
-  - "Market"
+  - "Bitcoin"
+  - "Markets"
 url: "/Crypto/Bitcoin-Unrealized-Profit-Pullback-Warning"
 ---
 

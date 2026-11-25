@@ -6,9 +6,7 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Telegram"
-  - "Cloud Storage"
-  - "WebDAV"
+  - "Self-Hosting"
 url: "/Tech/CyDrive-Telegram-Cloud-Drive"
 ---
 

@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Shell"
+  - "Software"
 url: "/Tech/Device-shots"
 ---
 

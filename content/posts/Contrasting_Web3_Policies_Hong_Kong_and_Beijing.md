@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "Web3"
-  - "HK"
+  - "Regulation"
 url: "/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing"
 ---
 

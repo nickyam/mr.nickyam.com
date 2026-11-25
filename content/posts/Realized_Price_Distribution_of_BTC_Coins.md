@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/Realized_Price_Distribution_of_BTC_Coins"
 ---
 

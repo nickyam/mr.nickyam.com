@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Voting"
+  - "Governance"
 url: "/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts"
 ---
 

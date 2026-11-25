@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/BlackRock_CEO_Praises_Bitcoin"
 ---
 

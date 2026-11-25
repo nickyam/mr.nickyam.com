@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
+  - "NFT"
   - "Governance"
-  - "Ordinals"
-  - "Softfork"
 url: "/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin"
 aliases:
   - "/Crypto/BIP-110-Fork-Fails-Who-Changes-Bitcoin.html"

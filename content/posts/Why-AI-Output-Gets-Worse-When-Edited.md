@@ -7,9 +7,6 @@ categories:
   - "Tech"
 tags:
   - "AI"
-  - "DeepSeek"
-  - "LLM"
-  - "Prompting"
 url: "/Tech/Why-AI-Output-Gets-Worse-When-Edited"
 ---
 

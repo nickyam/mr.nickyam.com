@@ -6,11 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Blur"
-  - "Blast"
-  - "Airdrop"
-  - "NFT"
   - "Ethereum"
+  - "NFT"
 url: "/Crypto/Blast-Blur-Shutdown-Pacman-Airdrop"
 ---
 

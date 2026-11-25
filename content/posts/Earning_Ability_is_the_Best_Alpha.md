@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/Earning_Ability_is_the_Best_Alpha"
 ---
 

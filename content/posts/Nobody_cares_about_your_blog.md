@@ -6,7 +6,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Blog"
+  - "Internet"
 url: "/World/Nobody_cares_about_your_blog"
 ---
 

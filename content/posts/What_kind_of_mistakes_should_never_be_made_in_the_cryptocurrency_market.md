@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Investment"
+  - "Investing"
 url: "/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market"
 ---
 

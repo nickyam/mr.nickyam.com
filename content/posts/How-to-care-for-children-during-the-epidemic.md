@@ -5,7 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Covid-19"
+  - "COVID-19"
 url: "/World/How-to-care-for-children-during-the-epidemic"
 robotsNoIndex: true
 sitemap:

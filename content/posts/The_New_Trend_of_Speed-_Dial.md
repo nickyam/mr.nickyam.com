@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Browser"
+  - "Internet"
 url: "/Tech/The_New_Trend_of_Speed-_Dial"
 robotsNoIndex: true
 sitemap:

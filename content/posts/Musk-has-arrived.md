@@ -5,7 +5,6 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Musk"
   - "Tesla"
 url: "/Tech/Musk-has-arrived"
 ---

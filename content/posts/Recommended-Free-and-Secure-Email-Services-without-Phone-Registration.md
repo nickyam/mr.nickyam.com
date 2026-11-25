@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Mail"
+  - "Self-Hosting"
 url: "/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration"
 ---
 

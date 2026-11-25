@@ -6,7 +6,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Mark"
+  - "Life"
 url: "/World/The-end-of-2018"
 robotsNoIndex: true
 sitemap:

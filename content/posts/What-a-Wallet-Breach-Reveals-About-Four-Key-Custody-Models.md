@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Keplr"
   - "Self-Custody"
-  - "Wallet Security"
-  - "Web3Auth"
+  - "Security"
 url: "/Crypto/What-a-Wallet-Breach-Reveals-About-Four-Key-Custody-Models"
 ---
 

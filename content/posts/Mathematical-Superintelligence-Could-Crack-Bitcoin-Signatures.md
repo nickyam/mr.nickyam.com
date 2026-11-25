@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "ECDSA"
-  - "AI"
+  - "Bitcoin"
   - "Cryptography"
+  - "AI"
 url: "/Crypto/Mathematical-Superintelligence-Could-Crack-Bitcoin-Signatures"
 ---
 

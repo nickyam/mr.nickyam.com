@@ -5,7 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Wolf"
+  - "Life"
 url: "/World/The_Song_of_Wolf"
 robotsNoIndex: true
 sitemap:

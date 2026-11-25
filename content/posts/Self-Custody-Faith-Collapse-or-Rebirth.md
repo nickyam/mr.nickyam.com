@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Security"
+  - "Bitcoin"
   - "Self-Custody"
-  - "Lightning"
+  - "Security"
 url: "/Crypto/Self-Custody-Faith-Collapse-or-Rebirth"
 ---
 

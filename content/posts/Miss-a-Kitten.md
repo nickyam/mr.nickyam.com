@@ -6,7 +6,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Pet"
+  - "Life"
 url: "/World/Miss-a-Kitten"
 robotsNoIndex: true
 sitemap:

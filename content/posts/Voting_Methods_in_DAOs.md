@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Voting"
+  - "Governance"
 url: "/Crypto/Voting_Methods_in_DAOs"
 ---
 

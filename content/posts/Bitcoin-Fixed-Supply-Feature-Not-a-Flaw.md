@@ -7,9 +7,8 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Monetary Policy"
-  - "Sound Money"
-  - "Volatility"
+  - "Markets"
+  - "Macro"
 url: "/Crypto/Bitcoin-Fixed-Supply-Feature-Not-a-Flaw"
 aliases:
   - "/Crypto/Is-Bitcoins-Fixed-Supply-a-Flaw-or-a-Feature"

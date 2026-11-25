@@ -6,10 +6,8 @@ toc: true
 categories:
   - "World"
 tags:
+  - "Market Psychology"
   - "Life"
-  - "Psychology"
-  - "Time"
-  - "Memory"
 url: "/World/Why-the-Midpoint-of-Life-Is-18-Not-40"
 ---
 

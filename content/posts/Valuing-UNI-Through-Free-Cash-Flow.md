@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "UNI"
-  - "Uniswap"
-  - "Valuation"
   - "DeFi"
+  - "Investing"
 url: "/Crypto/Valuing-UNI-Through-Free-Cash-Flow"
 ---
 

@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/Some_Points_about_the_Value_of_BTC"
 robotsNoIndex: true
 sitemap:

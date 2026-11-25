@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/How-much-BTC-should-you-hoard"
 ---
 

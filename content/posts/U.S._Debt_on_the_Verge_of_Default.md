@@ -6,8 +6,8 @@ toc: true
 categories:
   - "World"
 tags:
-  - "USA"
-url: "/World/U.S._Debt_on_the_Verge_of_Default"
+  - "Politics"
+url: "/World/U.S._Debt_on_the_Verge_of_Default/"
 ---
 
 ![](https://yun.nickyam.com/file/c2aeeea6af7ca3d2814f3.jpg)

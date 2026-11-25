@@ -5,8 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Movie"
-  - "Hollywood"
+  - "Film"
 url: "/World/Happy_Death_Day"
 ---
 

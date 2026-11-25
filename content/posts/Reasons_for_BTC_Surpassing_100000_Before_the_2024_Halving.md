@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/Reasons_for_BTC_Surpassing_100000_Before_the_2024_Halving"
 aliases:
   - "/Crypto/Reasons_for_BTC_Surpassing_$100,000_Before_the_2024_Halving.html"

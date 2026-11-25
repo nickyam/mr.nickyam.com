@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
+  - "Self-Custody"
   - "Security"
-  - "FBI"
-  - "Custody"
 url: "/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto"
 ---
 

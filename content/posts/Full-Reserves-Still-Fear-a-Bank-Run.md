@@ -7,9 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Stablecoins"
-  - "USDC"
   - "Regulation"
-  - "FSB"
 url: "/Crypto/Full-Reserves-Still-Fear-a-Bank-Run"
 ---
 

@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BNB Chain"
-  - "Tapeout"
-  - "BEM"
-  - "Tokenomics"
+  - "Blockchain"
+  - "Tokenization"
+  - "Chips"
 url: "/Crypto/On-Chain-Chip-Tapeout-BEM-Token"
 ---
 

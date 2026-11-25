@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Security"
-  - "Exchange Security"
+  - "Bitcoin"
   - "Self-Custody"
+  - "Security"
 url: "/Crypto/Binance-Hack-Report-Barrel-Effect-Single-Point-Failure"
 ---
 

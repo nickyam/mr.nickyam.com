@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Tencent"
+  - "Software"
 url: "/Tech/Good_Job_Tencent"
 ---
 

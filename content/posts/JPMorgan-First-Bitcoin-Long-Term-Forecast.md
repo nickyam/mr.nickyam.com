@@ -7,9 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "JPMorgan"
-  - "ETF"
-  - "Institutional"
+  - "Investing"
 url: "/Crypto/JPMorgan-First-Bitcoin-Long-Term-Forecast"
 ---
 

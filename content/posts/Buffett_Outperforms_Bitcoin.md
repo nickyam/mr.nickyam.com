@@ -6,8 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Buffett"
+  - "Bitcoin"
+  - "Investing"
 url: "/Crypto/Buffett_Outperforms_Bitcoin"
 ---
 

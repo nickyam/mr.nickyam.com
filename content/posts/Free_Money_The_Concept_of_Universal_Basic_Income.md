@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "UBI"
+  - "Macro"
 url: "/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income"
 ---
 

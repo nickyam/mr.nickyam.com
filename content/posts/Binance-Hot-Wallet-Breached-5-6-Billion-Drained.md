@@ -6,10 +6,10 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
   - "Ethereum"
-  - "Exchange Security"
   - "DeFi"
+  - "Security"
 url: "/Crypto/Binance-Hot-Wallet-Breached-5-6-Billion-Drained"
 ---
 

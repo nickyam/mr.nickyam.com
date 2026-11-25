@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
+  - "Bitcoin"
 url: "/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars"
 aliases:
   - "/Crypto/Don't_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html"

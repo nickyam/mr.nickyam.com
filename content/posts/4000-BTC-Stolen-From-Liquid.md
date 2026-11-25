@@ -6,10 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Liquid"
+  - "Bitcoin"
+  - "DeFi"
   - "Security"
-  - "Sidechain"
 url: "/Crypto/4000-BTC-Stolen-From-Liquid"
 ---
 

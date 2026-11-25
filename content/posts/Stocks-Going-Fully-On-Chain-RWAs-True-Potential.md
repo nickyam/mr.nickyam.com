@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "RWA"
-  - "Tokenization"
-  - "Stocks"
   - "Ethereum"
+  - "Tokenization"
 url: "/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential"
 ---
 

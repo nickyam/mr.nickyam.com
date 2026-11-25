@@ -7,9 +7,9 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "Quantum"
   - "Security"
-  - "Public Keys"
+  - "Cryptography"
+  - "Quantum"
 url: "/Crypto/Bitcoin-Quantum-Risk-6-Million-BTC-Exposed"
 ---
 

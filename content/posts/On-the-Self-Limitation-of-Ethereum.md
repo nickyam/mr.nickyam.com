@@ -5,7 +5,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "ETH"
+  - "Ethereum"
 url: "/Crypto/On-the-Self-Limitation-of-Ethereum"
 ---
 

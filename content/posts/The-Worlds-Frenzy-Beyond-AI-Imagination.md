@@ -7,9 +7,9 @@ categories:
   - "Crypto"
 tags:
   - "Bitcoin"
-  - "AI"
-  - "Market Psychology"
   - "Investing"
+  - "Market Psychology"
+  - "AI"
 url: "/Crypto/The-Worlds-Frenzy-Beyond-AI-Imagination"
 ---
 

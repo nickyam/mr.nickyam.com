@@ -5,7 +5,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "Covid-19"
+  - "COVID-19"
 url: "/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home"
 robotsNoIndex: true
 sitemap:

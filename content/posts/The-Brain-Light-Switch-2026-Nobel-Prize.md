@@ -6,9 +6,7 @@ toc: true
 categories:
   - "Tech"
 tags:
-  - "Optogenetics"
-  - "Neuroscience"
-  - "Nobel Prize"
+  - "Science"
 url: "/Tech/The-Brain-Light-Switch-2026-Nobel-Prize"
 ---
 

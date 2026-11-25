@@ -6,8 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Uniswap"
+  - "Bitcoin"
+  - "DeFi"
 url: "/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions"
 ---
 

@@ -6,9 +6,9 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "BTC"
-  - "Quantum"
+  - "Bitcoin"
   - "Security"
+  - "Quantum"
   - "AI"
 url: "/Crypto/The-Quantum-Sword-Honed-by-AI"
 ---

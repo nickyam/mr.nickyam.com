@@ -6,7 +6,7 @@ toc: true
 categories:
   - "World"
 tags:
-  - "EDU"
+  - "Life"
 url: "/World/Three_Lovely_Presidents_At_GSUP"
 robotsNoIndex: true
 sitemap:

@@ -6,10 +6,8 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "API Security"
-  - "Trading Bots"
-  - "Exchange"
-  - "Best Practices"
+  - "Security"
+  - "Exchanges"
 url: "/Crypto/How-to-Secure-Exchange-API-Keys-for-Crypto-Trading-Bots"
 ---
 

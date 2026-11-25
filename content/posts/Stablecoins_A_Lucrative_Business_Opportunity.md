@@ -6,7 +6,7 @@ toc: true
 categories:
   - "Crypto"
 tags:
-  - "Stablecoin"
+  - "Stablecoins"
 url: "/Crypto/Stablecoins_A_Lucrative_Business_Opportunity"
 ---
 
